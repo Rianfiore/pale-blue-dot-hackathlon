@@ -144,10 +144,10 @@ class AgriculturalProductionData:
             # Iterate over the federation columns
             for federation_index in range(0, len(FederationColumns), 1):
               # Get the federation dataframe
-              federation_data = federation_df.iloc[federation_index]
-
+              federation_data = pd.DataFrame(federation_df.iloc[federation_index])
+                
               # Append federation dataframe to dict
-              dict_output[agricultural_type][month][FederationColumns[federation_index]] = federation_data
+              dict_output[agricultural_type][month][FederationColumns[federation_index]] = federation_data.apply(pd.to_numeric, errors="coerce")
 
         return dict_output
     except Exception as e:

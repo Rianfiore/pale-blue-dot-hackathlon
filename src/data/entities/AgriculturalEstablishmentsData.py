@@ -6,8 +6,8 @@ import json
 TypologyType = Literal['Non-Family farming', 'Family farming']
 TypologyColumns = ['Non-Family farming', 'Family farming']
 
-FederationType = Literal["Brasil",  "Rondônia",  "Acre",  "Amazonas",  "Roraima",  "Pará",  "Amapá",  "Tocantins",  "Maranhão",  "Piauí",  "Ceará",  "Rio Grande do Norte",  "Paraíba",  "Pernambuco",  "Alagoas",  "Sergipe",  "Bahia",  "Minas Gerais",  "Espírito Santo",  "Rio de Janeiro",  "São Paulo",  "Paraná",  "Santa Catarina",  "Rio Grande do Sul",  "Mato Grosso do Sul",  "Mato Grosso",  "Goiás", "Distrito Federal"]
-FederationColumns = ["Brasil",  "Rondônia",  "Acre",  "Amazonas",  "Roraima",  "Pará",  "Amapá",  "Tocantins",  "Maranhão",  "Piauí",  "Ceará",  "Rio Grande do Norte",  "Paraíba",  "Pernambuco",  "Alagoas",  "Sergipe",  "Bahia",  "Minas Gerais",  "Espírito Santo",  "Rio de Janeiro",  "São Paulo",  "Paraná",  "Santa Catarina",  "Rio Grande do Sul",  "Mato Grosso do Sul",  "Mato Grosso",  "Goiás", "Distrito Federal"]
+FederationType = Literal["BR","RO","AC","AM","RR","PA","AP","TO","MA","PI","CE","RN","PB","PE","AL","SE","BA","MG","ES","RJ","SP","PR","SC","RS","MS","MT","GO","DF"];
+FederationColumns = ["BR","RO","AC","AM","RR","PA","AP","TO","MA","PI","CE","RN","PB","PE","AL","SE","BA","MG","ES","RJ","SP","PR","SC","RS","MS","MT","GO","DF"];
 
 ProductType = Literal['Total', 'Sugarcane spirit', 'Feather cotton', 'Cottonseed', 'Grain rice', 'Roasted coffee beans', 'Ground roast coffee', 'Cajuína', 'Milk cream', 'Candies and jellies', 'Mandioca flour', 'Corn meal', 'Fumo em rolo', 'Vegetables (processed)', 'Liqueurs', 'Butter', 'Molasses', 'Vegetable oils', 'Breads, cakes and cookies', 'Fruit pulp', 'Cheese and cottage cheese', 'Rapadura', 'Fruit juices', 'Grape wine', 'Beef meat (pasture-raised)', 'Pork (pasture-raised)', 'Meat from other animals (pasture-raised)', 'Treated meat (sun-dried meat, salty meat)', 'Sausage and hot dog', 'Leathers and skins', 'Charcoal', 'Wood products', 'Other products', 'Gum or tapioca']
 ProductColumns = ['Total', 'Sugarcane spirit', 'Feather cotton', 'Cottonseed', 'Grain rice', 'Roasted coffee beans', 'Ground roast coffee', 'Cajuína', 'Milk cream', 'Candies and jellies', 'Mandioca flour', 'Corn meal', 'Fumo em rolo', 'Vegetables (processed)', 'Liqueurs', 'Butter', 'Molasses', 'Vegetable oils', 'Breads, cakes and cookies', 'Fruit pulp', 'Cheese and cottage cheese', 'Rapadura', 'Fruit juices', 'Grape wine', 'Beef meat (pasture-raised)', 'Pork (pasture-raised)', 'Meat from other animals (pasture-raised)', 'Treated meat (sun-dried meat, salty meat)', 'Sausage and hot dog', 'Leathers and skins', 'Charcoal', 'Wood products', 'Other products', 'Gum or tapioca']
@@ -143,7 +143,7 @@ class AgriculturalEstablishmentsData:
           df = pd.DataFrame.from_dict(json_string[typology][federation], orient='index')
 
           # Add dataframe to the dict
-          dict_output[typology][federation] = df
+          dict_output[typology][federation] = df.apply(pd.to_numeric, errors="coerce")
 
       return dict_output
 
