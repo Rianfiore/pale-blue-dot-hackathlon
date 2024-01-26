@@ -1,13 +1,3 @@
-Nome: FLORIANO
-Codigo Estacao: A311
-Latitude: -6.76138888
-Longitude: -43.00333333
-Altitude: 126.39
-Situacao: Operante
-Data Inicial: 2023-01-01
-Data Final: 2023-12-31
-Periodicidade da Medicao: Diaria
-
 Data Medicao;PRECIPITACAO TOTAL, DIARIO (AUT)(mm);PRESSAO ATMOSFERICA MEDIA DIARIA (AUT)(mB);TEMPERATURA MAXIMA, DIARIA (AUT)(°C);TEMPERATURA MEDIA, DIARIA (AUT)(°C);TEMPERATURA MINIMA, DIARIA (AUT)(°C);UMIDADE RELATIVA DO AR, MEDIA DIARIA (AUT)(%);VENTO, VELOCIDADE MEDIA DIARIA (AUT)(m/s);
 2023-01-01;null;null;null;null;null;null;null;
 2023-01-02;null;null;null;null;null;null;null;
