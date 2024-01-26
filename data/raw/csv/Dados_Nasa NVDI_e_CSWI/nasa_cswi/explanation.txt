@@ -1,0 +1,11 @@
+Copernicus Soil Water Index
+The Soil Water Index quantifies the moisture condition at various depths in the soil. 
+It is mainly driven by the precipitation via the process of infiltration. Soil moisture is a very heterogeneous 
+variable and varies on small scales with soil properties and drainage patterns. 
+Satellite measurements integrate over relative large-scale areas, with the presence of vegetation adding complexity 
+to the interpretation.
+
+The soil moisture, up to 5cm soil depth, is recognized as an Essential Climate Variable (ECV) by the 
+Global Climate Observing System (GCOS).
+
+more information on: https://land.copernicus.eu/global/products/swi

@@ -1,0 +1,52 @@
+Nome: BELA VISTA
+Codigo Estacao: A757
+Latitude: -22.10166666
+Longitude: -56.54083333
+Altitude: 206.09
+Situacao: Fechada
+Data Inicial: 2023-01-01
+Data Final: 2023-02-09
+Periodicidade da Medicao: Diaria
+
+Data Medicao;PRECIPITACAO TOTAL, DIARIO (AUT)(mm);PRESSAO ATMOSFERICA MEDIA DIARIA (AUT)(mB);TEMPERATURA MAXIMA, DIARIA (AUT)(°C);TEMPERATURA MEDIA, DIARIA (AUT)(°C);TEMPERATURA MINIMA, DIARIA (AUT)(°C);UMIDADE RELATIVA DO AR, MEDIA DIARIA (AUT)(%);VENTO, VELOCIDADE MEDIA DIARIA (AUT)(m/s);
+2023-01-01;null;null;null;null;null;null;null;
+2023-01-02;null;null;null;null;null;null;null;
+2023-01-03;null;null;null;null;null;null;null;
+2023-01-04;null;null;null;null;null;null;null;
+2023-01-05;null;null;null;null;null;null;null;
+2023-01-06;null;null;null;null;null;null;null;
+2023-01-07;null;null;null;null;null;null;null;
+2023-01-08;null;null;null;null;null;null;null;
+2023-01-09;null;null;null;null;null;null;null;
+2023-01-10;null;null;null;null;null;null;null;
+2023-01-11;null;null;null;null;null;null;null;
+2023-01-12;null;null;null;null;null;null;null;
+2023-01-13;null;null;null;null;null;null;null;
+2023-01-14;null;null;null;null;null;null;null;
+2023-01-15;null;null;null;null;null;null;null;
+2023-01-16;null;null;null;null;null;null;null;
+2023-01-17;null;null;null;null;null;null;null;
+2023-01-18;null;null;null;null;null;null;null;
+2023-01-19;null;null;null;null;null;null;null;
+2023-01-20;null;null;null;null;null;null;null;
+2023-01-21;null;null;null;null;null;null;null;
+2023-01-22;null;null;null;null;null;null;null;
+2023-01-23;null;null;null;null;null;null;null;
+2023-01-24;null;null;null;null;null;null;null;
+2023-01-25;null;null;null;null;null;null;null;
+2023-01-26;null;null;null;null;null;null;null;
+2023-01-27;null;null;null;null;null;null;null;
+2023-01-28;null;null;null;null;null;null;null;
+2023-01-29;null;null;null;null;null;null;null;
+2023-01-30;null;null;null;null;null;null;null;
+2023-01-31;null;null;null;null;null;null;null;
+2023-02-01;null;null;null;null;null;null;null;
+2023-02-02;null;null;null;null;null;null;null;
+2023-02-03;null;null;null;null;null;null;null;
+2023-02-04;null;null;null;null;null;null;null;
+2023-02-05;null;null;null;null;null;null;null;
+2023-02-06;null;null;null;null;null;null;null;
+2023-02-07;null;null;null;null;null;null;null;
+2023-02-08;null;null;null;null;null;null;null;
+2023-02-09;null;null;null;null;null;null;null;
+
