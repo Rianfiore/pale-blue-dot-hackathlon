@@ -3,6 +3,10 @@ pale_blue_dot_hackathon
 
 Data visualization to optimize governamental programs
 
+## How to run the project?
+
+Enter the command `streamlit run src/visualization/streamlit/main.py`
+
 Project Organization
 ------------
 
