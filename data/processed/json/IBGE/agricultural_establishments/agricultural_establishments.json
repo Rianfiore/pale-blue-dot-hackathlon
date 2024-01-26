@@ -1,6 +1,6 @@
 {
   "Non-Family farming": {
-    "Brasil": {
+    "BR": {
       "Total": {
         "Total": "131995",
         "Sugarcane spirit": "2364",
@@ -362,7 +362,7 @@
         "Gum or tapioca": "76"
       }
     },
-    "Rondônia": {
+    "RO": {
       "Total": {
         "Total": "429",
         "Sugarcane spirit": "1",
@@ -724,7 +724,7 @@
         "Gum or tapioca": "0"
       }
     },
-    "Acre": {
+    "AC": {
       "Total": {
         "Total": "1475",
         "Sugarcane spirit": "1",
@@ -1086,7 +1086,7 @@
         "Gum or tapioca": "5"
       }
     },
-    "Amazonas": {
+    "AM": {
       "Total": {
         "Total": "5326",
         "Sugarcane spirit": "0",
@@ -1448,7 +1448,7 @@
         "Gum or tapioca": "16"
       }
     },
-    "Roraima": {
+    "RR": {
       "Total": {
         "Total": "1003",
         "Sugarcane spirit": "0",
@@ -1810,7 +1810,7 @@
         "Gum or tapioca": "7"
       }
     },
-    "Pará": {
+    "PA": {
       "Total": {
         "Total": "8499",
         "Sugarcane spirit": "2",
@@ -2172,7 +2172,7 @@
         "Gum or tapioca": "2"
       }
     },
-    "Amapá": {
+    "AP": {
       "Total": {
         "Total": "732",
         "Sugarcane spirit": "0",
@@ -2534,7 +2534,7 @@
         "Gum or tapioca": "3"
       }
     },
-    "Tocantins": {
+    "TO": {
       "Total": {
         "Total": "2558",
         "Sugarcane spirit": "7",
@@ -2896,7 +2896,7 @@
         "Gum or tapioca": "1"
       }
     },
-    "Maranhão": {
+    "MA": {
       "Total": {
         "Total": "10713",
         "Sugarcane spirit": "95",
@@ -3258,7 +3258,7 @@
         "Gum or tapioca": "19"
       }
     },
-    "Piauí": {
+    "PI": {
       "Total": {
         "Total": "6352",
         "Sugarcane spirit": "49",
@@ -3620,7 +3620,7 @@
         "Gum or tapioca": "15"
       }
     },
-    "Ceará": {
+    "CE": {
       "Total": {
         "Total": "9319",
         "Sugarcane spirit": "38",
@@ -3982,7 +3982,7 @@
         "Gum or tapioca": "4"
       }
     },
-    "Rio Grande do Norte": {
+    "RN": {
       "Total": {
         "Total": "728",
         "Sugarcane spirit": "4",
@@ -4344,7 +4344,7 @@
         "Gum or tapioca": "0"
       }
     },
-    "Paraíba": {
+    "PB": {
       "Total": {
         "Total": "2250",
         "Sugarcane spirit": "32",
@@ -4706,7 +4706,7 @@
         "Gum or tapioca": "0"
       }
     },
-    "Pernambuco": {
+    "PE": {
       "Total": {
         "Total": "1338",
         "Sugarcane spirit": "3",
@@ -5068,7 +5068,7 @@
         "Gum or tapioca": "0"
       }
     },
-    "Alagoas": {
+    "AL": {
       "Total": {
         "Total": "1252",
         "Sugarcane spirit": "3",
@@ -5430,7 +5430,7 @@
         "Gum or tapioca": "2"
       }
     },
-    "Sergipe": {
+    "SE": {
       "Total": {
         "Total": "1434",
         "Sugarcane spirit": "3",
@@ -5792,7 +5792,7 @@
         "Gum or tapioca": "0"
       }
     },
-    "Bahia": {
+    "BA": {
       "Total": {
         "Total": "15604",
         "Sugarcane spirit": "376",
@@ -6154,7 +6154,7 @@
         "Gum or tapioca": "1"
       }
     },
-    "Minas Gerais": {
+    "MG": {
       "Total": {
         "Total": "20972",
         "Sugarcane spirit": "1414",
@@ -6516,7 +6516,7 @@
         "Gum or tapioca": "1"
       }
     },
-    "Espírito Santo": {
+    "ES": {
       "Total": {
         "Total": "1180",
         "Sugarcane spirit": "49",
@@ -6878,7 +6878,7 @@
         "Gum or tapioca": "0"
       }
     },
-    "Rio de Janeiro": {
+    "RJ": {
       "Total": {
         "Total": "1082",
         "Sugarcane spirit": "51",
@@ -7240,7 +7240,7 @@
         "Gum or tapioca": "0"
       }
     },
-    "São Paulo": {
+    "SP": {
       "Total": {
         "Total": "2167",
         "Sugarcane spirit": "82",
@@ -7602,7 +7602,7 @@
         "Gum or tapioca": "0"
       }
     },
-    "Paraná": {
+    "PR": {
       "Total": {
         "Total": "5010",
         "Sugarcane spirit": "25",
@@ -7964,7 +7964,7 @@
         "Gum or tapioca": "0"
       }
     },
-    "Santa Catarina": {
+    "SC": {
       "Total": {
         "Total": "5458",
         "Sugarcane spirit": "46",
@@ -8326,7 +8326,7 @@
         "Gum or tapioca": "0"
       }
     },
-    "Rio Grande do Sul": {
+    "RS": {
       "Total": {
         "Total": "18768",
         "Sugarcane spirit": "58",
@@ -8688,7 +8688,7 @@
         "Gum or tapioca": "0"
       }
     },
-    "Mato Grosso do Sul": {
+    "MS": {
       "Total": {
         "Total": "1379",
         "Sugarcane spirit": "1",
@@ -9050,7 +9050,7 @@
         "Gum or tapioca": "0"
       }
     },
-    "Mato Grosso": {
+    "MT": {
       "Total": {
         "Total": "2000",
         "Sugarcane spirit": "4",
@@ -9412,7 +9412,7 @@
         "Gum or tapioca": "0"
       }
     },
-    "Goiás": {
+    "GO": {
       "Total": {
         "Total": "4595",
         "Sugarcane spirit": "19",
@@ -9774,7 +9774,7 @@
         "Gum or tapioca": "0"
       }
     },
-    "Distrito Federal": {
+    "DF": {
       "Total": {
         "Total": "372",
         "Sugarcane spirit": "1",
@@ -10138,7 +10138,7 @@
     }
   },
   "Family farming": {
-    "Brasil": {
+    "BR": {
       "Total": {
         "Total": "720644",
         "Sugarcane spirit": "8664",
@@ -10500,7 +10500,7 @@
         "Gum or tapioca": "45"
       }
     },
-    "Rondônia": {
+    "RO": {
       "Total": {
         "Total": "2430",
         "Sugarcane spirit": "5",
@@ -10862,7 +10862,7 @@
         "Gum or tapioca": "0"
       }
     },
-    "Acre": {
+    "AC": {
       "Total": {
         "Total": "13356",
         "Sugarcane spirit": "4",
@@ -11224,7 +11224,7 @@
         "Gum or tapioca": "1"
       }
     },
-    "Amazonas": {
+    "AM": {
       "Total": {
         "Total": "50266",
         "Sugarcane spirit": "16",
@@ -11586,7 +11586,7 @@
         "Gum or tapioca": "4"
       }
     },
-    "Roraima": {
+    "RR": {
       "Total": {
         "Total": "6158",
         "Sugarcane spirit": "0",
@@ -11948,7 +11948,7 @@
         "Gum or tapioca": "0"
       }
     },
-    "Pará": {
+    "PA": {
       "Total": {
         "Total": "83414",
         "Sugarcane spirit": "3",
@@ -12310,7 +12310,7 @@
         "Gum or tapioca": "1"
       }
     },
-    "Amapá": {
+    "AP": {
       "Total": {
         "Total": "4471",
         "Sugarcane spirit": "0",
@@ -12672,7 +12672,7 @@
         "Gum or tapioca": "0"
       }
     },
-    "Tocantins": {
+    "TO": {
       "Total": {
         "Total": "9560",
         "Sugarcane spirit": "16",
@@ -13034,7 +13034,7 @@
         "Gum or tapioca": "0"
       }
     },
-    "Maranhão": {
+    "MA": {
       "Total": {
         "Total": "91662",
         "Sugarcane spirit": "401",
@@ -13396,7 +13396,7 @@
         "Gum or tapioca": "12"
       }
     },
-    "Piauí": {
+    "PI": {
       "Total": {
         "Total": "31132",
         "Sugarcane spirit": "222",
@@ -13758,7 +13758,7 @@
         "Gum or tapioca": "18"
       }
     },
-    "Ceará": {
+    "CE": {
       "Total": {
         "Total": "35251",
         "Sugarcane spirit": "117",
@@ -14120,7 +14120,7 @@
         "Gum or tapioca": "2"
       }
     },
-    "Rio Grande do Norte": {
+    "RN": {
       "Total": {
         "Total": "2778",
         "Sugarcane spirit": "1",
@@ -14482,7 +14482,7 @@
         "Gum or tapioca": "0"
       }
     },
-    "Paraíba": {
+    "PB": {
       "Total": {
         "Total": "8973",
         "Sugarcane spirit": "9",
@@ -14844,7 +14844,7 @@
         "Gum or tapioca": "0"
       }
     },
-    "Pernambuco": {
+    "PE": {
       "Total": {
         "Total": "8193",
         "Sugarcane spirit": "2",
@@ -15206,7 +15206,7 @@
         "Gum or tapioca": "0"
       }
     },
-    "Alagoas": {
+    "AL": {
       "Total": {
         "Total": "8904",
         "Sugarcane spirit": "4",
@@ -15568,7 +15568,7 @@
         "Gum or tapioca": "1"
       }
     },
-    "Sergipe": {
+    "SE": {
       "Total": {
         "Total": "5383",
         "Sugarcane spirit": "0",
@@ -15930,7 +15930,7 @@
         "Gum or tapioca": "0"
       }
     },
-    "Bahia": {
+    "BA": {
       "Total": {
         "Total": "77136",
         "Sugarcane spirit": "2514",
@@ -16292,7 +16292,7 @@
         "Gum or tapioca": "1"
       }
     },
-    "Minas Gerais": {
+    "MG": {
       "Total": {
         "Total": "72353",
         "Sugarcane spirit": "4098",
@@ -16654,7 +16654,7 @@
         "Gum or tapioca": "4"
       }
     },
-    "Espírito Santo": {
+    "ES": {
       "Total": {
         "Total": "3749",
         "Sugarcane spirit": "98",
@@ -17016,7 +17016,7 @@
         "Gum or tapioca": "0"
       }
     },
-    "Rio de Janeiro": {
+    "RJ": {
       "Total": {
         "Total": "2336",
         "Sugarcane spirit": "53",
@@ -17378,7 +17378,7 @@
         "Gum or tapioca": "0"
       }
     },
-    "São Paulo": {
+    "SP": {
       "Total": {
         "Total": "5603",
         "Sugarcane spirit": "114",
@@ -17740,7 +17740,7 @@
         "Gum or tapioca": "0"
       }
     },
-    "Paraná": {
+    "PR": {
       "Total": {
         "Total": "19802",
         "Sugarcane spirit": "65",
@@ -18102,7 +18102,7 @@
         "Gum or tapioca": "0"
       }
     },
-    "Santa Catarina": {
+    "SC": {
       "Total": {
         "Total": "32828",
         "Sugarcane spirit": "313",
@@ -18464,7 +18464,7 @@
         "Gum or tapioca": "0"
       }
     },
-    "Rio Grande do Sul": {
+    "RS": {
       "Total": {
         "Total": "121694",
         "Sugarcane spirit": "533",
@@ -18826,7 +18826,7 @@
         "Gum or tapioca": "0"
       }
     },
-    "Mato Grosso do Sul": {
+    "MS": {
       "Total": {
         "Total": "3742",
         "Sugarcane spirit": "1",
@@ -19188,7 +19188,7 @@
         "Gum or tapioca": "0"
       }
     },
-    "Mato Grosso": {
+    "MT": {
       "Total": {
         "Total": "6088",
         "Sugarcane spirit": "5",
@@ -19550,7 +19550,7 @@
         "Gum or tapioca": "0"
       }
     },
-    "Goiás": {
+    "GO": {
       "Total": {
         "Total": "13012",
         "Sugarcane spirit": "68",
@@ -19912,7 +19912,7 @@
         "Gum or tapioca": "1"
       }
     },
-    "Distrito Federal": {
+    "DF": {
       "Total": {
         "Total": "370",
         "Sugarcane spirit": "2",
