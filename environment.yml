@@ -1,13 +1,3 @@
-name: herbie
-channels:
-  - conda-forge
-dependencies:
-  - python>=3.11
-  - pip
-  - rclone # Not used by Herbie, useful if you are downloading data (https://rclone.org/)
-
-  - herbie-data
-
   #==============
   # Dependencies
   #==============
