@@ -1,6 +1,23 @@
-from src.data.entities.AgriculturalEstablishmentsData import AgriculturalEstablishmentsData
-from src.data.entities.AgriculturalProductionData import AgriculturalProductionData
+from src.visualization.streamlit.pages.components.IBGE.Establishments_component import IbgeEstablishmentsComponent
+from src.visualization.streamlit.pages.components.IBGE.Production_component import IbgeProductionComponent
+import streamlit as st
 
-agricultural_production = AgriculturalProductionData().get_dict()
-agricultural_establishments = AgriculturalEstablishmentsData().get_dict()
+ibge_production_component = IbgeProductionComponent()
+ibge_establishments_component = IbgeEstablishmentsComponent()
 
+st.sidebar.header('Please Filter Here:')
+
+dataType = st.sidebar.multiselect(
+   'Select the data type',
+   options=['Agricultural Production', 'Agricultural Establishments'],
+   default={'Agricultural Production'}
+)
+
+st.title(":bar_chart: Agricultural Data Dashboard")
+st.markdown("##")
+
+
+if 'Agricultural Production' in dataType:
+  ibge_production_component.render()
+if 'Agricultural Establishments' in dataType:
+  ibge_establishments_component.render()
