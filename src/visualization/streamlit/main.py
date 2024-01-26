@@ -28,6 +28,6 @@ st.write(text_cswi)
 
 text_IBGE_01 = "The IBGE conducted the Agricultural Census 2017 with the aim of portraying the reality of Agricultural Brazil, considering its interrelationships with actors, scenarios, modes, and instruments of action. Therefore, in order to achieve a better approximation that identified and captured the dynamics of productive means and land use, the variability in occupation and labor relations, the degree of specialization and technification of labor, the growing interest in the reflections on environmental heritage, and all the changes that have occurred since the last survey – the Agricultural Census 2006 – a resizing was applied to the data capture model, in terms of conceptual aspects, based on the premises suggested in the World Agricultural Census Program 2020, developed by the Food and Agriculture Organization (FAO) of the United Nations in 2016; the categorizations of the National Classification of Economic Activities – CNAE 2.0, elaborated by IBGE in 2007, and in accordance with the International Standard Industrial Classification of All Economic Activities – ISIC."
 text_IBGE_02 = "Historical series of the annual estimate of planted area, harvested area, production, and average yield of crops."
-st.markdown("🌱** Systematic Agricultural Production Survey and Agricultural Census**")
+st.markdown("🌱**Systematic Agricultural Production Survey and Agricultural Census**")
 st.write(text_IBGE_02)
 st.write(text_IBGE_01)
