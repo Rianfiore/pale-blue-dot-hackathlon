@@ -8,6 +8,7 @@
   - eccodes
   - geos
   - matplotlib>=3.5.3
+  - streamlit
   - metpy
   - netcdf4
   - numpy>=1.25
