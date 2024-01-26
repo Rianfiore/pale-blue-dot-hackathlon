@@ -1,3 +1,4 @@
+import plotly.express as px
 import streamlit as st   
 
 st.set_page_config(
@@ -18,6 +19,10 @@ st.markdown("""---""")
 
 st.write(text_about)
 
-text_ndvi = "Explain the nvdi"
+text_ndvi = "The Normalized Difference Vegetation Index (NDVI) is an indicator of the greenness of the biomes. Even though it is not a physical property of the vegetation cover, its very simple formulation NDVI = (REF_nir – REF_red)/(REF_nir + REF_red) where REF_nir and REF_red are the spectral reflectances measured in the near infrared and red wavebands respectively, makes it widely used for ecosystems monitoring."
 st.markdown("🌱**Normalized Difference Vegetation Index Dashboard**")
 st.write(text_ndvi)
+
+text_cswi = "The Soil Water Index quantifies the moisture condition at various depths in the soil. It is mainly driven by the precipitation via the process of infiltration. Soil moisture is a very heterogeneous variable and varies on small scales with soil properties and drainage patterns. Satellite measurements integrate over relative large-scale areas, with the presence of vegetation adding complexity to the interpretation."
+st.markdown("🌱**Copernicus Soil Water Index Dashboard**")
+st.write(text_cswi)
