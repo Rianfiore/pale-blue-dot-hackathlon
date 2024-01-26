@@ -10,7 +10,7 @@ st.sidebar.header('Please Filter Here:')
 dataType = st.sidebar.multiselect(
    'Select the data type',
    options=['Agricultural Production', 'Agricultural Establishments'],
-   default={'Agricultural Production'}
+   default={'Agricultural Establishments'}
 )
 
 st.title(":bar_chart: Agricultural Data Dashboard")
@@ -21,3 +21,4 @@ if 'Agricultural Production' in dataType:
   ibge_production_component.render()
 if 'Agricultural Establishments' in dataType:
   ibge_establishments_component.render()
+  

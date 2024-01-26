@@ -1,8 +1,11 @@
-from src.data.entities.AgriculturalProductionData import AgriculturalProductionData
+import numpy as np
+import pandas as pd
+from src.data.entities.AgriculturalProductionData import AgriculturalProductionData, ProductColumns
 from src.data.entities.AgriculturalProductionData import AgriculturalColumns
 from src.data.entities.AgriculturalProductionData import MonthColumns
 from src.data.entities.AgriculturalProductionData import FederationColumns
-
+import streamlit_echarts
+from streamlit_echarts import st_echarts
 import streamlit as st
 
 class IbgeProductionComponent:
@@ -18,6 +21,12 @@ class IbgeProductionComponent:
     month_reference = st.selectbox('Select the month reference', options=MonthColumns)
     state = st.selectbox('Select the state', options=FederationColumns)
     
+    # chart_data = pd.DataFrame(np.random.randn(20, 3), columns=["a", "b", "c"])
+    
+    
+    
     # Create the dataframe and display it with filters
-    st.dataframe(self.agricultural_production[agricultural_type][month_reference][state], use_container_width=True)
-  
+    production_df = self.agricultural_production[agricultural_type][month_reference][state]
+    
+    
+    st.bar_chart( production_df)
