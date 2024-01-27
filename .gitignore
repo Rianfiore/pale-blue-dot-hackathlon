@@ -87,3 +87,5 @@ target/
 
 # Mypy cache
 .mypy_cache/
+src/data/entities/InmetData.py
+src/data_processing/extraction.py

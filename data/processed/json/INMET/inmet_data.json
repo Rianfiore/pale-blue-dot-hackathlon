@@ -1,0 +1,3620 @@
+{
+  "RO": {
+    "Jan": {
+      "0": {
+        "Total preciptation (mm)": 0.24354838709677418,
+        "Average atmospheric pressure (mB)": 24.20530914516129,
+        "Maximum temperature (\u00b0C)": 0.9701612903225806,
+        "Average temperature (\u00b0C)": 0.6262768870967742,
+        "Minimum temperature (\u00b0C)": 0.7443548387096774,
+        "Relative humidity (%)": 0.0,
+        "Average wind speed (m/s)": 0.03867607258064516
+      }
+    },
+    "Feb": {
+      "0": {
+        "Total preciptation (mm)": 0.0,
+        "Average atmospheric pressure (mB)": 0.0,
+        "Maximum temperature (\u00b0C)": 0.0,
+        "Average temperature (\u00b0C)": 0.0,
+        "Minimum temperature (\u00b0C)": 0.0,
+        "Relative humidity (%)": 0.0,
+        "Average wind speed (m/s)": 0.0
+      }
+    },
+    "Mar": {
+      "0": {
+        "Total preciptation (mm)": 0.027419354838709678,
+        "Average atmospheric pressure (mB)": 24.217977153225807,
+        "Maximum temperature (\u00b0C)": 1.0451612903225809,
+        "Average temperature (\u00b0C)": 0.43303091129032256,
+        "Minimum temperature (\u00b0C)": 0.5717741935483871,
+        "Relative humidity (%)": 0.0,
+        "Average wind speed (m/s)": 0.026790508064516126
+      }
+    },
+    "Apr": {
+      "0": {
+        "Total preciptation (mm)": 0.11166666666666665,
+        "Average atmospheric pressure (mB)": 41.694676175000005,
+        "Maximum temperature (\u00b0C)": 3.7583333333333333,
+        "Average temperature (\u00b0C)": 0.6620138916666666,
+        "Minimum temperature (\u00b0C)": 2.175,
+        "Relative humidity (%)": 0.0,
+        "Average wind speed (m/s)": 0.04843713333333333
+      }
+    },
+    "May": {
+      "0": {
+        "Total preciptation (mm)": 0.34032258064516124,
+        "Average atmospheric pressure (mB)": 285.2888367419355,
+        "Maximum temperature (\u00b0C)": 12.002419354838707,
+        "Average temperature (\u00b0C)": 7.141685387096775,
+        "Minimum temperature (\u00b0C)": 6.7209677419354845,
+        "Relative humidity (%)": 20.995250532258066,
+        "Average wind speed (m/s)": 0.41798087096774195
+      }
+    },
+    "Jun": {
+      "0": {
+        "Total preciptation (mm)": 1.1333333333333333,
+        "Average atmospheric pressure (mB)": 952.5066199833334,
+        "Maximum temperature (\u00b0C)": 31.179166666666667,
+        "Average temperature (\u00b0C)": 20.322339275,
+        "Minimum temperature (\u00b0C)": 19.315833333333334,
+        "Relative humidity (%)": 71.96623759166667,
+        "Average wind speed (m/s)": 1.3601953166666667
+      }
+    },
+    "Jul": {
+      "0": {
+        "Total preciptation (mm)": 0.0064516129032258064,
+        "Average atmospheric pressure (mB)": 920.6409698629033,
+        "Maximum temperature (\u00b0C)": 34.288709677419355,
+        "Average temperature (\u00b0C)": 20.084599725806452,
+        "Minimum temperature (\u00b0C)": 19.293548387096777,
+        "Relative humidity (%)": 64.38404052419355,
+        "Average wind speed (m/s)": 1.1015668225806452
+      }
+    },
+    "Aug": {
+      "0": {
+        "Total preciptation (mm)": 1.1870967741935483,
+        "Average atmospheric pressure (mB)": 862.5356198467742,
+        "Maximum temperature (\u00b0C)": 34.983870967741936,
+        "Average temperature (\u00b0C)": 21.257000943548384,
+        "Minimum temperature (\u00b0C)": 21.941129032258065,
+        "Relative humidity (%)": 66.22137797580646,
+        "Average wind speed (m/s)": 0.8927608225806452
+      }
+    },
+    "Sep": {
+      "0": {
+        "Total preciptation (mm)": 2.493333333333333,
+        "Average atmospheric pressure (mB)": 899.2314408916667,
+        "Maximum temperature (\u00b0C)": 35.57083333333333,
+        "Average temperature (\u00b0C)": 21.258840575,
+        "Minimum temperature (\u00b0C)": 23.155,
+        "Relative humidity (%)": 69.43253521666666,
+        "Average wind speed (m/s)": 1.0243042666666666
+      }
+    },
+    "Oct": {
+      "0": {
+        "Total preciptation (mm)": 2.6629032258064513,
+        "Average atmospheric pressure (mB)": 892.6830217096774,
+        "Maximum temperature (\u00b0C)": 35.18467741935484,
+        "Average temperature (\u00b0C)": 21.621487056451613,
+        "Minimum temperature (\u00b0C)": 23.279032258064518,
+        "Relative humidity (%)": 71.30948770161291,
+        "Average wind speed (m/s)": 0.9608939112903225
+      }
+    },
+    "Nov": {
+      "0": {
+        "Total preciptation (mm)": 4.515,
+        "Average atmospheric pressure (mB)": 931.3017736333334,
+        "Maximum temperature (\u00b0C)": 33.68416666666667,
+        "Average temperature (\u00b0C)": 22.5461071,
+        "Minimum temperature (\u00b0C)": 23.265,
+        "Relative humidity (%)": 74.63101973333333,
+        "Average wind speed (m/s)": 1.1986894999999997
+      }
+    },
+    "Dec": {
+      "0": {
+        "Total preciptation (mm)": 7.619354838709677,
+        "Average atmospheric pressure (mB)": 965.7431948387098,
+        "Maximum temperature (\u00b0C)": 32.76774193548387,
+        "Average temperature (\u00b0C)": 25.892864096774193,
+        "Minimum temperature (\u00b0C)": 23.365322580645163,
+        "Relative humidity (%)": 78.45525698387097,
+        "Average wind speed (m/s)": 1.3271188548387096
+      }
+    }
+  },
+  "AC": {
+    "Jan": {
+      "0": {
+        "Total preciptation (mm)": 2.2580645161290325,
+        "Average atmospheric pressure (mB)": 283.2457757281106,
+        "Maximum temperature (\u00b0C)": 8.910599078341013,
+        "Average temperature (\u00b0C)": 7.150556843317972,
+        "Minimum temperature (\u00b0C)": 6.2382488479262665,
+        "Relative humidity (%)": 24.47561443317972,
+        "Average wind speed (m/s)": 0.21607144239631335
+      }
+    },
+    "Feb": {
+      "0": {
+        "Total preciptation (mm)": 2.937755102040817,
+        "Average atmospheric pressure (mB)": 283.298426877551,
+        "Maximum temperature (\u00b0C)": 8.83265306122449,
+        "Average temperature (\u00b0C)": 7.140986387755102,
+        "Minimum temperature (\u00b0C)": 6.303571428571429,
+        "Relative humidity (%)": 24.958120734693875,
+        "Average wind speed (m/s)": 0.17038690306122448
+      }
+    },
+    "Mar": {
+      "0": {
+        "Total preciptation (mm)": 4.002764976958526,
+        "Average atmospheric pressure (mB)": 283.24796466820277,
+        "Maximum temperature (\u00b0C)": 8.972811059907835,
+        "Average temperature (\u00b0C)": 7.190687405529954,
+        "Minimum temperature (\u00b0C)": 6.396774193548388,
+        "Relative humidity (%)": 25.15687403686636,
+        "Average wind speed (m/s)": 0.1617703456221198
+      }
+    },
+    "Apr": {
+      "0": {
+        "Total preciptation (mm)": 1.600952380952381,
+        "Average atmospheric pressure (mB)": 283.2267669666667,
+        "Maximum temperature (\u00b0C)": 8.937142857142858,
+        "Average temperature (\u00b0C)": 7.118322504761905,
+        "Minimum temperature (\u00b0C)": 6.402380952380952,
+        "Relative humidity (%)": 25.133888895238098,
+        "Average wind speed (m/s)": 0.1373834761904762
+      }
+    },
+    "May": {
+      "0": {
+        "Total preciptation (mm)": 1.256221198156682,
+        "Average atmospheric pressure (mB)": 224.30603827188938,
+        "Maximum temperature (\u00b0C)": 8.797235023041475,
+        "Average temperature (\u00b0C)": 5.103327497695853,
+        "Minimum temperature (\u00b0C)": 5.863133640552995,
+        "Relative humidity (%)": 24.301077875576034,
+        "Average wind speed (m/s)": 0.10969608294930876
+      }
+    },
+    "Jun": {
+      "0": {
+        "Total preciptation (mm)": 0.22571428571428576,
+        "Average atmospheric pressure (mB)": 142.30005410476193,
+        "Maximum temperature (\u00b0C)": 6.447619047619048,
+        "Average temperature (\u00b0C)": 3.404507580952381,
+        "Minimum temperature (\u00b0C)": 3.2033333333333336,
+        "Relative humidity (%)": 14.836879485714286,
+        "Average wind speed (m/s)": 0.05533009523809524
+      }
+    },
+    "Jul": {
+      "0": {
+        "Total preciptation (mm)": 0.04423963133640553,
+        "Average atmospheric pressure (mB)": 142.15931260829493,
+        "Maximum temperature (\u00b0C)": 4.761290322580645,
+        "Average temperature (\u00b0C)": 3.648886322580645,
+        "Minimum temperature (\u00b0C)": 2.8617511520737327,
+        "Relative humidity (%)": 10.712173589861752,
+        "Average wind speed (m/s)": 0.07152456682027651
+      }
+    },
+    "Aug": {
+      "0": {
+        "Total preciptation (mm)": 0.19907834101382485,
+        "Average atmospheric pressure (mB)": 141.90718125345623,
+        "Maximum temperature (\u00b0C)": 5.005990783410138,
+        "Average temperature (\u00b0C)": 3.8914554562211983,
+        "Minimum temperature (\u00b0C)": 3.1096774193548384,
+        "Relative humidity (%)": 10.088517663594471,
+        "Average wind speed (m/s)": 0.08690476497695852
+      }
+    },
+    "Sep": {
+      "0": {
+        "Total preciptation (mm)": 0.379047619047619,
+        "Average atmospheric pressure (mB)": 141.7400396761905,
+        "Maximum temperature (\u00b0C)": 5.086190476190476,
+        "Average temperature (\u00b0C)": 3.976210314285715,
+        "Minimum temperature (\u00b0C)": 3.276666666666667,
+        "Relative humidity (%)": 10.26884920952381,
+        "Average wind speed (m/s)": 0.09974205714285714
+      }
+    },
+    "Oct": {
+      "0": {
+        "Total preciptation (mm)": 0.35668202764976964,
+        "Average atmospheric pressure (mB)": 141.5487711152074,
+        "Maximum temperature (\u00b0C)": 5.140092165898618,
+        "Average temperature (\u00b0C)": 4.067434714285715,
+        "Minimum temperature (\u00b0C)": 3.438709677419355,
+        "Relative humidity (%)": 10.265745004608295,
+        "Average wind speed (m/s)": 0.12142857603686637
+      }
+    },
+    "Nov": {
+      "0": {
+        "Total preciptation (mm)": 0.4533333333333333,
+        "Average atmospheric pressure (mB)": 141.5603373047619,
+        "Maximum temperature (\u00b0C)": 4.897619047619047,
+        "Average temperature (\u00b0C)": 3.946805557142857,
+        "Minimum temperature (\u00b0C)": 3.3814285714285717,
+        "Relative humidity (%)": 10.76845238095238,
+        "Average wind speed (m/s)": 0.11382936666666667
+      }
+    },
+    "Dec": {
+      "0": {
+        "Total preciptation (mm)": 3.2184331797235024,
+        "Average atmospheric pressure (mB)": 414.62127140092167,
+        "Maximum temperature (\u00b0C)": 13.451612903225806,
+        "Average temperature (\u00b0C)": 10.88090728110599,
+        "Minimum temperature (\u00b0C)": 9.885714285714286,
+        "Relative humidity (%)": 36.27615184792627,
+        "Average wind speed (m/s)": 0.30682931797235025
+      }
+    }
+  },
+  "AM": {
+    "Jan": {
+      "0": {
+        "Total preciptation (mm)": 8.38811544991511,
+        "Average atmospheric pressure (mB)": 846.1873481714771,
+        "Maximum temperature (\u00b0C)": 23.946519524618,
+        "Average temperature (\u00b0C)": 19.51109861629881,
+        "Minimum temperature (\u00b0C)": 17.846179966044144,
+        "Relative humidity (%)": 70.99457162139218,
+        "Average wind speed (m/s)": 0.6452598811544992
+      }
+    },
+    "Feb": {
+      "0": {
+        "Total preciptation (mm)": 9.764661654135338,
+        "Average atmospheric pressure (mB)": 844.0335032725565,
+        "Maximum temperature (\u00b0C)": 24.188345864661652,
+        "Average temperature (\u00b0C)": 19.644170906015038,
+        "Minimum temperature (\u00b0C)": 18.072932330827065,
+        "Relative humidity (%)": 71.36797265413533,
+        "Average wind speed (m/s)": 0.6716060131578946
+      }
+    },
+    "Mar": {
+      "0": {
+        "Total preciptation (mm)": 6.514431239388794,
+        "Average atmospheric pressure (mB)": 797.0443486808149,
+        "Maximum temperature (\u00b0C)": 22.95314091680815,
+        "Average temperature (\u00b0C)": 18.812075582342953,
+        "Minimum temperature (\u00b0C)": 17.211544991511037,
+        "Relative humidity (%)": 66.72281467062818,
+        "Average wind speed (m/s)": 0.6788750984719863
+      }
+    },
+    "Apr": {
+      "0": {
+        "Total preciptation (mm)": 6.316140350877193,
+        "Average atmospheric pressure (mB)": 788.0432141473684,
+        "Maximum temperature (\u00b0C)": 23.954736842105262,
+        "Average temperature (\u00b0C)": 19.17996197017544,
+        "Minimum temperature (\u00b0C)": 17.4440350877193,
+        "Relative humidity (%)": 66.39572894035088,
+        "Average wind speed (m/s)": 0.6279624877192983
+      }
+    },
+    "May": {
+      "0": {
+        "Total preciptation (mm)": 5.0723259762309,
+        "Average atmospheric pressure (mB)": 732.6964383752123,
+        "Maximum temperature (\u00b0C)": 24.892869269949063,
+        "Average temperature (\u00b0C)": 18.613743370118844,
+        "Minimum temperature (\u00b0C)": 17.20730050933786,
+        "Relative humidity (%)": 62.8158110730051,
+        "Average wind speed (m/s)": 0.5713324855687606
+      }
+    },
+    "Jun": {
+      "0": {
+        "Total preciptation (mm)": 2.8140350877192986,
+        "Average atmospheric pressure (mB)": 791.7654910614035,
+        "Maximum temperature (\u00b0C)": 25.81070175438597,
+        "Average temperature (\u00b0C)": 19.62732459122807,
+        "Minimum temperature (\u00b0C)": 17.301929824561405,
+        "Relative humidity (%)": 64.48543763333333,
+        "Average wind speed (m/s)": 0.6505166052631578
+      }
+    },
+    "Jul": {
+      "0": {
+        "Total preciptation (mm)": 1.6736842105263157,
+        "Average atmospheric pressure (mB)": 820.5381372275043,
+        "Maximum temperature (\u00b0C)": 26.65755517826825,
+        "Average temperature (\u00b0C)": 20.90593090831918,
+        "Minimum temperature (\u00b0C)": 17.5572156196944,
+        "Relative humidity (%)": 62.092385494057716,
+        "Average wind speed (m/s)": 0.6746549083191851
+      }
+    },
+    "Aug": {
+      "0": {
+        "Total preciptation (mm)": 1.370458404074703,
+        "Average atmospheric pressure (mB)": 817.7929735348047,
+        "Maximum temperature (\u00b0C)": 27.765195246179964,
+        "Average temperature (\u00b0C)": 21.51286323089983,
+        "Minimum temperature (\u00b0C)": 18.437691001697793,
+        "Relative humidity (%)": 61.05605604074703,
+        "Average wind speed (m/s)": 0.6944400356536502
+      }
+    },
+    "Sep": {
+      "0": {
+        "Total preciptation (mm)": 2.1347368421052635,
+        "Average atmospheric pressure (mB)": 819.4984400543859,
+        "Maximum temperature (\u00b0C)": 28.655964912280705,
+        "Average temperature (\u00b0C)": 21.985327587719297,
+        "Minimum temperature (\u00b0C)": 18.793508771929826,
+        "Relative humidity (%)": 59.23991457894737,
+        "Average wind speed (m/s)": 0.7160324912280702
+      }
+    },
+    "Oct": {
+      "0": {
+        "Total preciptation (mm)": 2.0821731748726657,
+        "Average atmospheric pressure (mB)": 826.0629490747029,
+        "Maximum temperature (\u00b0C)": 28.713242784380302,
+        "Average temperature (\u00b0C)": 21.408085556876063,
+        "Minimum temperature (\u00b0C)": 19.444312393887945,
+        "Relative humidity (%)": 60.12893301528014,
+        "Average wind speed (m/s)": 0.7340133955857385
+      }
+    },
+    "Nov": {
+      "0": {
+        "Total preciptation (mm)": 2.576842105263158,
+        "Average atmospheric pressure (mB)": 786.596196154386,
+        "Maximum temperature (\u00b0C)": 26.488421052631576,
+        "Average temperature (\u00b0C)": 20.04185419122807,
+        "Minimum temperature (\u00b0C)": 19.042807017543858,
+        "Relative humidity (%)": 62.77630210877193,
+        "Average wind speed (m/s)": 0.6730079421052632
+      }
+    },
+    "Dec": {
+      "0": {
+        "Total preciptation (mm)": 5.399660441426146,
+        "Average atmospheric pressure (mB)": 788.5319573837012,
+        "Maximum temperature (\u00b0C)": 24.501018675721564,
+        "Average temperature (\u00b0C)": 19.01458902546689,
+        "Minimum temperature (\u00b0C)": 18.08522920203735,
+        "Relative humidity (%)": 69.47864714940577,
+        "Average wind speed (m/s)": 0.6091997996604415
+      }
+    }
+  },
+  "RR": {
+    "Jan": {
+      "0": {
+        "Total preciptation (mm)": 2.7935483870967746,
+        "Average atmospheric pressure (mB)": 1002.2586245161291,
+        "Maximum temperature (\u00b0C)": 32.33548387096774,
+        "Average temperature (\u00b0C)": 26.701747354838712,
+        "Minimum temperature (\u00b0C)": 22.89032258064516,
+        "Relative humidity (%)": 64.81048396774194,
+        "Average wind speed (m/s)": 1.978699193548387
+      }
+    },
+    "Feb": {
+      "0": {
+        "Total preciptation (mm)": 1.9142857142857144,
+        "Average atmospheric pressure (mB)": 966.0775298214286,
+        "Maximum temperature (\u00b0C)": 32.339285714285715,
+        "Average temperature (\u00b0C)": 27.009672642857144,
+        "Minimum temperature (\u00b0C)": 23.332142857142856,
+        "Relative humidity (%)": 63.75297621428571,
+        "Average wind speed (m/s)": 2.1616266071428574
+      }
+    },
+    "Mar": {
+      "0": {
+        "Total preciptation (mm)": 0.27096774193548384,
+        "Average atmospheric pressure (mB)": 1001.8980799354839,
+        "Maximum temperature (\u00b0C)": 34.438709677419354,
+        "Average temperature (\u00b0C)": 28.310887225806454,
+        "Minimum temperature (\u00b0C)": 23.925806451612903,
+        "Relative humidity (%)": 55.01747303225807,
+        "Average wind speed (m/s)": 2.435665064516129
+      }
+    },
+    "Apr": {
+      "0": {
+        "Total preciptation (mm)": 9.766666666666667,
+        "Average atmospheric pressure (mB)": 1001.3441161666667,
+        "Maximum temperature (\u00b0C)": 34.056666666666665,
+        "Average temperature (\u00b0C)": 27.90819456666667,
+        "Minimum temperature (\u00b0C)": 23.846666666666668,
+        "Relative humidity (%)": 62.92361116666667,
+        "Average wind speed (m/s)": 2.2347343
+      }
+    },
+    "May": {
+      "0": {
+        "Total preciptation (mm)": 10.412903225806453,
+        "Average atmospheric pressure (mB)": 1002.4658603225806,
+        "Maximum temperature (\u00b0C)": 32.119354838709675,
+        "Average temperature (\u00b0C)": 26.833871000000002,
+        "Minimum temperature (\u00b0C)": 23.638709677419353,
+        "Relative humidity (%)": 74.05107535483872,
+        "Average wind speed (m/s)": 1.725765741935484
+      }
+    },
+    "Jun": {
+      "0": {
+        "Total preciptation (mm)": 14.186666666666666,
+        "Average atmospheric pressure (mB)": 1003.5825044,
+        "Maximum temperature (\u00b0C)": 31.333333333333332,
+        "Average temperature (\u00b0C)": 26.2194445,
+        "Minimum temperature (\u00b0C)": 23.253333333333334,
+        "Relative humidity (%)": 78.87499996666666,
+        "Average wind speed (m/s)": 1.3962884333333332
+      }
+    },
+    "Jul": {
+      "0": {
+        "Total preciptation (mm)": 12.825806451612904,
+        "Average atmospheric pressure (mB)": 1003.7490591612903,
+        "Maximum temperature (\u00b0C)": 32.30967741935484,
+        "Average temperature (\u00b0C)": 26.432258064516127,
+        "Minimum temperature (\u00b0C)": 23.061290322580643,
+        "Relative humidity (%)": 75.71236558064517,
+        "Average wind speed (m/s)": 1.391082193548387
+      }
+    },
+    "Aug": {
+      "0": {
+        "Total preciptation (mm)": 0.8580645161290323,
+        "Average atmospheric pressure (mB)": 614.7336375806451,
+        "Maximum temperature (\u00b0C)": 21.325806451612905,
+        "Average temperature (\u00b0C)": 16.202419322580646,
+        "Minimum temperature (\u00b0C)": 14.548387096774194,
+        "Relative humidity (%)": 43.07668370967742,
+        "Average wind speed (m/s)": 0.9791364838709677
+      }
+    },
+    "Sep": {
+      "0": {
+        "Total preciptation (mm)": 0.0,
+        "Average atmospheric pressure (mB)": 0.0,
+        "Maximum temperature (\u00b0C)": 0.0,
+        "Average temperature (\u00b0C)": 0.0,
+        "Minimum temperature (\u00b0C)": 0.0,
+        "Relative humidity (%)": 0.0,
+        "Average wind speed (m/s)": 0.0
+      }
+    },
+    "Oct": {
+      "0": {
+        "Total preciptation (mm)": 0.0,
+        "Average atmospheric pressure (mB)": 0.0,
+        "Maximum temperature (\u00b0C)": 0.0,
+        "Average temperature (\u00b0C)": 0.0,
+        "Minimum temperature (\u00b0C)": 0.0,
+        "Relative humidity (%)": 0.0,
+        "Average wind speed (m/s)": 0.0
+      }
+    },
+    "Nov": {
+      "0": {
+        "Total preciptation (mm)": 0.03333333333333333,
+        "Average atmospheric pressure (mB)": 300.3006944666667,
+        "Maximum temperature (\u00b0C)": 10.736666666666666,
+        "Average temperature (\u00b0C)": 8.74,
+        "Minimum temperature (\u00b0C)": 7.443333333333333,
+        "Relative humidity (%)": 16.9888889,
+        "Average wind speed (m/s)": 0.7037500333333334
+      }
+    },
+    "Dec": {
+      "0": {
+        "Total preciptation (mm)": 0.7225806451612903,
+        "Average atmospheric pressure (mB)": 1000.4877688064516,
+        "Maximum temperature (\u00b0C)": 35.76774193548387,
+        "Average temperature (\u00b0C)": 29.271908548387096,
+        "Minimum temperature (\u00b0C)": 24.95483870967742,
+        "Relative humidity (%)": 57.557795741935486,
+        "Average wind speed (m/s)": 2.3088183548387096
+      }
+    }
+  },
+  "PA": {
+    "Jan": {
+      "0": {
+        "Total preciptation (mm)": 3.192375366568915,
+        "Average atmospheric pressure (mB)": 455.5396353128055,
+        "Maximum temperature (\u00b0C)": 15.939687194525904,
+        "Average temperature (\u00b0C)": 10.584494899315738,
+        "Minimum temperature (\u00b0C)": 9.762463343108504,
+        "Relative humidity (%)": 39.547511369501464,
+        "Average wind speed (m/s)": 0.28238072434017597
+      }
+    },
+    "Feb": {
+      "0": {
+        "Total preciptation (mm)": 5.063419913419914,
+        "Average atmospheric pressure (mB)": 496.180382198052,
+        "Maximum temperature (\u00b0C)": 15.883225108225105,
+        "Average temperature (\u00b0C)": 11.44222921103896,
+        "Minimum temperature (\u00b0C)": 10.704978354978355,
+        "Relative humidity (%)": 41.1685286590909,
+        "Average wind speed (m/s)": 0.2869241677489177
+      }
+    },
+    "Mar": {
+      "0": {
+        "Total preciptation (mm)": 4.817008797653959,
+        "Average atmospheric pressure (mB)": 460.5322191720431,
+        "Maximum temperature (\u00b0C)": 14.839882697947214,
+        "Average temperature (\u00b0C)": 10.128485362658845,
+        "Minimum temperature (\u00b0C)": 10.0791788856305,
+        "Relative humidity (%)": 39.486832870967746,
+        "Average wind speed (m/s)": 0.3052973128054741
+      }
+    },
+    "Apr": {
+      "0": {
+        "Total preciptation (mm)": 3.1854545454545455,
+        "Average atmospheric pressure (mB)": 442.5041852252525,
+        "Maximum temperature (\u00b0C)": 14.48969696969697,
+        "Average temperature (\u00b0C)": 9.991280524242423,
+        "Minimum temperature (\u00b0C)": 9.841515151515152,
+        "Relative humidity (%)": 36.5397137949495,
+        "Average wind speed (m/s)": 0.2844314414141414
+      }
+    },
+    "May": {
+      "0": {
+        "Total preciptation (mm)": 2.8101661779081133,
+        "Average atmospheric pressure (mB)": 557.4765024418377,
+        "Maximum temperature (\u00b0C)": 17.56177908113392,
+        "Average temperature (\u00b0C)": 13.647803904203325,
+        "Minimum temperature (\u00b0C)": 12.665004887585532,
+        "Relative humidity (%)": 42.46157755131966,
+        "Average wind speed (m/s)": 0.47430955913978495
+      }
+    },
+    "Jun": {
+      "0": {
+        "Total preciptation (mm)": 1.0191919191919192,
+        "Average atmospheric pressure (mB)": 604.880401720202,
+        "Maximum temperature (\u00b0C)": 19.703737373737376,
+        "Average temperature (\u00b0C)": 15.197729384848486,
+        "Minimum temperature (\u00b0C)": 13.232626262626264,
+        "Relative humidity (%)": 43.02563540303031,
+        "Average wind speed (m/s)": 0.6049602111111111
+      }
+    },
+    "Jul": {
+      "0": {
+        "Total preciptation (mm)": 0.8281524926686217,
+        "Average atmospheric pressure (mB)": 655.9714957458456,
+        "Maximum temperature (\u00b0C)": 21.613587487781036,
+        "Average temperature (\u00b0C)": 16.49460299902248,
+        "Minimum temperature (\u00b0C)": 13.89462365591398,
+        "Relative humidity (%)": 43.84853049071359,
+        "Average wind speed (m/s)": 0.709764183773216
+      }
+    },
+    "Aug": {
+      "0": {
+        "Total preciptation (mm)": 0.47722385141739976,
+        "Average atmospheric pressure (mB)": 645.3981892463344,
+        "Maximum temperature (\u00b0C)": 22.037732160312807,
+        "Average temperature (\u00b0C)": 16.799266467253176,
+        "Minimum temperature (\u00b0C)": 14.281231671554252,
+        "Relative humidity (%)": 41.42409278201368,
+        "Average wind speed (m/s)": 0.7778544271749755
+      }
+    },
+    "Sep": {
+      "0": {
+        "Total preciptation (mm)": 0.6280808080808081,
+        "Average atmospheric pressure (mB)": 663.4755239949496,
+        "Maximum temperature (\u00b0C)": 22.381818181818183,
+        "Average temperature (\u00b0C)": 18.06403782929293,
+        "Minimum temperature (\u00b0C)": 14.903333333333334,
+        "Relative humidity (%)": 41.93763739797979,
+        "Average wind speed (m/s)": 0.8599725818181818
+      }
+    },
+    "Oct": {
+      "0": {
+        "Total preciptation (mm)": 1.0099706744868036,
+        "Average atmospheric pressure (mB)": 664.7842530596286,
+        "Maximum temperature (\u00b0C)": 22.94652981427175,
+        "Average temperature (\u00b0C)": 18.288076860215053,
+        "Minimum temperature (\u00b0C)": 15.503323558162268,
+        "Relative humidity (%)": 42.91182515053763,
+        "Average wind speed (m/s)": 0.8562131945259042
+      }
+    },
+    "Nov": {
+      "0": {
+        "Total preciptation (mm)": 1.8462626262626263,
+        "Average atmospheric pressure (mB)": 689.873168010101,
+        "Maximum temperature (\u00b0C)": 23.97373737373738,
+        "Average temperature (\u00b0C)": 19.100238856565657,
+        "Minimum temperature (\u00b0C)": 16.651818181818182,
+        "Relative humidity (%)": 46.60737263939394,
+        "Average wind speed (m/s)": 0.9754342959595959
+      }
+    },
+    "Dec": {
+      "0": {
+        "Total preciptation (mm)": 2.875464320625611,
+        "Average atmospheric pressure (mB)": 689.1021465141739,
+        "Maximum temperature (\u00b0C)": 23.158944281524928,
+        "Average temperature (\u00b0C)": 18.530065690127078,
+        "Minimum temperature (\u00b0C)": 16.545845552297166,
+        "Relative humidity (%)": 50.046769859237536,
+        "Average wind speed (m/s)": 0.887671560117302
+      }
+    }
+  },
+  "AP": {
+    "Jan": {
+      "0": {
+        "Total preciptation (mm)": 3.743548387096774,
+        "Average atmospheric pressure (mB)": 502.9217696935484,
+        "Maximum temperature (\u00b0C)": 15.13790322580645,
+        "Average temperature (\u00b0C)": 12.75150931451613,
+        "Minimum temperature (\u00b0C)": 11.42741935483871,
+        "Relative humidity (%)": 42.8147286532258,
+        "Average wind speed (m/s)": 0.8268742741935484
+      }
+    },
+    "Feb": {
+      "0": {
+        "Total preciptation (mm)": 5.014285714285714,
+        "Average atmospheric pressure (mB)": 502.84888724999996,
+        "Maximum temperature (\u00b0C)": 14.950892857142858,
+        "Average temperature (\u00b0C)": 12.384080892857142,
+        "Minimum temperature (\u00b0C)": 11.519642857142857,
+        "Relative humidity (%)": 44.03817015178571,
+        "Average wind speed (m/s)": 0.7964356428571429
+      }
+    },
+    "Mar": {
+      "0": {
+        "Total preciptation (mm)": 5.074193548387097,
+        "Average atmospheric pressure (mB)": 503.00934955645164,
+        "Maximum temperature (\u00b0C)": 15.174193548387096,
+        "Average temperature (\u00b0C)": 12.543103741935482,
+        "Minimum temperature (\u00b0C)": 11.55483870967742,
+        "Relative humidity (%)": 43.22599641935484,
+        "Average wind speed (m/s)": 0.8120295645161291
+      }
+    },
+    "Apr": {
+      "0": {
+        "Total preciptation (mm)": 4.741666666666667,
+        "Average atmospheric pressure (mB)": 502.633814925,
+        "Maximum temperature (\u00b0C)": 15.558333333333334,
+        "Average temperature (\u00b0C)": 13.094169683333334,
+        "Minimum temperature (\u00b0C)": 11.686666666666667,
+        "Relative humidity (%)": 42.3791365,
+        "Average wind speed (m/s)": 0.7767330833333334
+      }
+    },
+    "May": {
+      "0": {
+        "Total preciptation (mm)": 4.166129032258064,
+        "Average atmospheric pressure (mB)": 494.92133737903225,
+        "Maximum temperature (\u00b0C)": 15.778225806451612,
+        "Average temperature (\u00b0C)": 13.08444220967742,
+        "Minimum temperature (\u00b0C)": 11.954838709677418,
+        "Relative humidity (%)": 43.074695564516134,
+        "Average wind speed (m/s)": 0.715625
+      }
+    },
+    "Jun": {
+      "0": {
+        "Total preciptation (mm)": 3.135,
+        "Average atmospheric pressure (mB)": 503.6097916416667,
+        "Maximum temperature (\u00b0C)": 15.891666666666666,
+        "Average temperature (\u00b0C)": 13.333784675,
+        "Minimum temperature (\u00b0C)": 11.767500000000002,
+        "Relative humidity (%)": 41.80312498333333,
+        "Average wind speed (m/s)": 0.7162847
+      }
+    },
+    "Jul": {
+      "0": {
+        "Total preciptation (mm)": 2.637096774193549,
+        "Average atmospheric pressure (mB)": 503.8063726854839,
+        "Maximum temperature (\u00b0C)": 16.094354838709677,
+        "Average temperature (\u00b0C)": 13.495650717741935,
+        "Minimum temperature (\u00b0C)": 11.764516129032259,
+        "Relative humidity (%)": 40.52458800806451,
+        "Average wind speed (m/s)": 0.8262637580645161
+      }
+    },
+    "Aug": {
+      "0": {
+        "Total preciptation (mm)": 0.7629032258064516,
+        "Average atmospheric pressure (mB)": 503.2917367822581,
+        "Maximum temperature (\u00b0C)": 16.750806451612902,
+        "Average temperature (\u00b0C)": 14.045329298387095,
+        "Minimum temperature (\u00b0C)": 12.033064516129032,
+        "Relative humidity (%)": 38.09091570967742,
+        "Average wind speed (m/s)": 0.9324976774193549
+      }
+    },
+    "Sep": {
+      "0": {
+        "Total preciptation (mm)": 0.29333333333333333,
+        "Average atmospheric pressure (mB)": 502.90759812499994,
+        "Maximum temperature (\u00b0C)": 17.420833333333334,
+        "Average temperature (\u00b0C)": 14.383306116666667,
+        "Minimum temperature (\u00b0C)": 12.111666666666666,
+        "Relative humidity (%)": 35.86434179166667,
+        "Average wind speed (m/s)": 1.1278245916666667
+      }
+    },
+    "Oct": {
+      "0": {
+        "Total preciptation (mm)": 0.3629032258064516,
+        "Average atmospheric pressure (mB)": 502.39059577419357,
+        "Maximum temperature (\u00b0C)": 17.608870967741936,
+        "Average temperature (\u00b0C)": 14.537815548387096,
+        "Minimum temperature (\u00b0C)": 12.208870967741936,
+        "Relative humidity (%)": 35.04134525,
+        "Average wind speed (m/s)": 1.1662751532258064
+      }
+    },
+    "Nov": {
+      "0": {
+        "Total preciptation (mm)": 0.5816666666666667,
+        "Average atmospheric pressure (mB)": 552.6452872250001,
+        "Maximum temperature (\u00b0C)": 19.141666666666666,
+        "Average temperature (\u00b0C)": 15.781378325,
+        "Minimum temperature (\u00b0C)": 13.521666666666665,
+        "Relative humidity (%)": 38.18137944166667,
+        "Average wind speed (m/s)": 1.1779802333333333
+      }
+    },
+    "Dec": {
+      "0": {
+        "Total preciptation (mm)": 5.675806451612903,
+        "Average atmospheric pressure (mB)": 1006.521289983871,
+        "Maximum temperature (\u00b0C)": 33.156451612903226,
+        "Average temperature (\u00b0C)": 27.15711010483871,
+        "Minimum temperature (\u00b0C)": 24.013709677419357,
+        "Relative humidity (%)": 76.74550339516128,
+        "Average wind speed (m/s)": 1.616947806451613
+      }
+    }
+  },
+  "TO": {
+    "Jan": {
+      "0": {
+        "Total preciptation (mm)": 3.415483870967742,
+        "Average atmospheric pressure (mB)": 597.7771607854837,
+        "Maximum temperature (\u00b0C)": 23.393225806451614,
+        "Average temperature (\u00b0C)": 13.23414899032258,
+        "Minimum temperature (\u00b0C)": 13.029677419354837,
+        "Relative humidity (%)": 51.86294904032259,
+        "Average wind speed (m/s)": 0.7134398387096773
+      }
+    },
+    "Feb": {
+      "0": {
+        "Total preciptation (mm)": 3.0100000000000002,
+        "Average atmospheric pressure (mB)": 600.6201129714284,
+        "Maximum temperature (\u00b0C)": 24.508035714285718,
+        "Average temperature (\u00b0C)": 13.269737503571426,
+        "Minimum temperature (\u00b0C)": 13.327142857142857,
+        "Relative humidity (%)": 51.01431301785715,
+        "Average wind speed (m/s)": 0.7403548053571428
+      }
+    },
+    "Mar": {
+      "0": {
+        "Total preciptation (mm)": 6.3035483870967735,
+        "Average atmospheric pressure (mB)": 792.1583165806452,
+        "Maximum temperature (\u00b0C)": 28.128548387096778,
+        "Average temperature (\u00b0C)": 17.998572837096777,
+        "Minimum temperature (\u00b0C)": 17.77758064516129,
+        "Relative humidity (%)": 68.71973089032258,
+        "Average wind speed (m/s)": 0.9074458080645161
+      }
+    },
+    "Apr": {
+      "0": {
+        "Total preciptation (mm)": 3.2056666666666667,
+        "Average atmospheric pressure (mB)": 780.23279574,
+        "Maximum temperature (\u00b0C)": 28.758333333333333,
+        "Average temperature (\u00b0C)": 20.65019505,
+        "Minimum temperature (\u00b0C)": 17.420333333333335,
+        "Relative humidity (%)": 60.854828829999995,
+        "Average wind speed (m/s)": 0.8612146249999999
+      }
+    },
+    "May": {
+      "0": {
+        "Total preciptation (mm)": 1.2548387096774192,
+        "Average atmospheric pressure (mB)": 770.3538364548388,
+        "Maximum temperature (\u00b0C)": 29.665,
+        "Average temperature (\u00b0C)": 20.225749866129036,
+        "Minimum temperature (\u00b0C)": 16.782580645161293,
+        "Relative humidity (%)": 56.749203346774195,
+        "Average wind speed (m/s)": 0.8992874419354842
+      }
+    },
+    "Jun": {
+      "0": {
+        "Total preciptation (mm)": 0.004333333333333333,
+        "Average atmospheric pressure (mB)": 817.622867305,
+        "Maximum temperature (\u00b0C)": 31.327999999999996,
+        "Average temperature (\u00b0C)": 20.423188051666664,
+        "Minimum temperature (\u00b0C)": 15.87733333333333,
+        "Relative humidity (%)": 52.376866535,
+        "Average wind speed (m/s)": 1.044446695
+      }
+    },
+    "Jul": {
+      "0": {
+        "Total preciptation (mm)": 0.0,
+        "Average atmospheric pressure (mB)": 815.9797843064516,
+        "Maximum temperature (\u00b0C)": 30.25596774193548,
+        "Average temperature (\u00b0C)": 20.442545351612907,
+        "Minimum temperature (\u00b0C)": 14.428548387096772,
+        "Relative humidity (%)": 45.421101351612904,
+        "Average wind speed (m/s)": 1.2150754354838713
+      }
+    },
+    "Aug": {
+      "0": {
+        "Total preciptation (mm)": 0.5238709677419354,
+        "Average atmospheric pressure (mB)": 790.8814011790321,
+        "Maximum temperature (\u00b0C)": 30.96306451612903,
+        "Average temperature (\u00b0C)": 21.151030556451616,
+        "Minimum temperature (\u00b0C)": 15.652096774193549,
+        "Relative humidity (%)": 43.21646274193548,
+        "Average wind speed (m/s)": 1.226370583870968
+      }
+    },
+    "Sep": {
+      "0": {
+        "Total preciptation (mm)": 0.8300000000000001,
+        "Average atmospheric pressure (mB)": 826.6242984483333,
+        "Maximum temperature (\u00b0C)": 34.916166666666676,
+        "Average temperature (\u00b0C)": 22.48658789666667,
+        "Minimum temperature (\u00b0C)": 18.21366666666667,
+        "Relative humidity (%)": 45.00282586333333,
+        "Average wind speed (m/s)": 1.328747785
+      }
+    },
+    "Oct": {
+      "0": {
+        "Total preciptation (mm)": 1.7929032258064512,
+        "Average atmospheric pressure (mB)": 864.1541092048386,
+        "Maximum temperature (\u00b0C)": 33.52903225806452,
+        "Average temperature (\u00b0C)": 22.13015595322581,
+        "Minimum temperature (\u00b0C)": 20.57612903225806,
+        "Relative humidity (%)": 56.69821379838709,
+        "Average wind speed (m/s)": 1.2714222629032257
+      }
+    },
+    "Nov": {
+      "0": {
+        "Total preciptation (mm)": 2.393,
+        "Average atmospheric pressure (mB)": 863.4222668750001,
+        "Maximum temperature (\u00b0C)": 29.740500000000004,
+        "Average temperature (\u00b0C)": 18.996045228333337,
+        "Minimum temperature (\u00b0C)": 19.490000000000002,
+        "Relative humidity (%)": 62.18788196666666,
+        "Average wind speed (m/s)": 1.1771508083333333
+      }
+    },
+    "Dec": {
+      "0": {
+        "Total preciptation (mm)": 2.8741935483870966,
+        "Average atmospheric pressure (mB)": 867.2358302580644,
+        "Maximum temperature (\u00b0C)": 28.658870967741933,
+        "Average temperature (\u00b0C)": 17.383388191935484,
+        "Minimum temperature (\u00b0C)": 19.00951612903226,
+        "Relative humidity (%)": 64.04304253709678,
+        "Average wind speed (m/s)": 1.2092852306451616
+      }
+    }
+  },
+  "MA": {
+    "Jan": {
+      "0": {
+        "Total preciptation (mm)": 3.8390891840607213,
+        "Average atmospheric pressure (mB)": 729.3259836774193,
+        "Maximum temperature (\u00b0C)": 24.136432637571158,
+        "Average temperature (\u00b0C)": 18.837402724857686,
+        "Minimum temperature (\u00b0C)": 16.562428842504744,
+        "Relative humidity (%)": 54.039053781783686,
+        "Average wind speed (m/s)": 0.46357390322580644
+      }
+    },
+    "Feb": {
+      "0": {
+        "Total preciptation (mm)": 3.5168067226890756,
+        "Average atmospheric pressure (mB)": 709.0136317394958,
+        "Maximum temperature (\u00b0C)": 24.06995798319328,
+        "Average temperature (\u00b0C)": 18.349422884453784,
+        "Minimum temperature (\u00b0C)": 16.122478991596637,
+        "Relative humidity (%)": 52.81497680882352,
+        "Average wind speed (m/s)": 0.45395657983193277
+      }
+    },
+    "Mar": {
+      "0": {
+        "Total preciptation (mm)": 8.108159392789375,
+        "Average atmospheric pressure (mB)": 811.4432153396585,
+        "Maximum temperature (\u00b0C)": 25.55123339658444,
+        "Average temperature (\u00b0C)": 20.896470973434536,
+        "Minimum temperature (\u00b0C)": 18.487476280834915,
+        "Relative humidity (%)": 62.85052862808349,
+        "Average wind speed (m/s)": 0.5030243567362429
+      }
+    },
+    "Apr": {
+      "0": {
+        "Total preciptation (mm)": 4.959215686274511,
+        "Average atmospheric pressure (mB)": 760.0253559176471,
+        "Maximum temperature (\u00b0C)": 24.48098039215686,
+        "Average temperature (\u00b0C)": 20.0640782254902,
+        "Minimum temperature (\u00b0C)": 17.35882352941176,
+        "Relative humidity (%)": 56.985306535294114,
+        "Average wind speed (m/s)": 0.41549339999999996
+      }
+    },
+    "May": {
+      "0": {
+        "Total preciptation (mm)": 2.929411764705882,
+        "Average atmospheric pressure (mB)": 760.9046647817837,
+        "Maximum temperature (\u00b0C)": 24.93586337760911,
+        "Average temperature (\u00b0C)": 20.53458045920303,
+        "Minimum temperature (\u00b0C)": 17.59620493358634,
+        "Relative humidity (%)": 54.460847768500955,
+        "Average wind speed (m/s)": 0.45553446869070213
+      }
+    },
+    "Jun": {
+      "0": {
+        "Total preciptation (mm)": 1.108235294117647,
+        "Average atmospheric pressure (mB)": 761.9109221549019,
+        "Maximum temperature (\u00b0C)": 25.51274509803922,
+        "Average temperature (\u00b0C)": 20.508202249019604,
+        "Minimum temperature (\u00b0C)": 16.49529411764706,
+        "Relative humidity (%)": 49.71025094705881,
+        "Average wind speed (m/s)": 0.5414343607843137
+      }
+    },
+    "Jul": {
+      "0": {
+        "Total preciptation (mm)": 0.23719165085388993,
+        "Average atmospheric pressure (mB)": 721.1571353339659,
+        "Maximum temperature (\u00b0C)": 25.49430740037951,
+        "Average temperature (\u00b0C)": 19.405918440227705,
+        "Minimum temperature (\u00b0C)": 15.197912713472483,
+        "Relative humidity (%)": 43.66541074193548,
+        "Average wind speed (m/s)": 0.5578904535104364
+      }
+    },
+    "Aug": {
+      "0": {
+        "Total preciptation (mm)": 0.10740037950664137,
+        "Average atmospheric pressure (mB)": 818.4227232447819,
+        "Maximum temperature (\u00b0C)": 29.034535104364327,
+        "Average temperature (\u00b0C)": 22.77044418406072,
+        "Minimum temperature (\u00b0C)": 17.999051233396585,
+        "Relative humidity (%)": 47.54183855028462,
+        "Average wind speed (m/s)": 0.7817658064516129
+      }
+    },
+    "Sep": {
+      "0": {
+        "Total preciptation (mm)": 0.12980392156862747,
+        "Average atmospheric pressure (mB)": 937.3170674313726,
+        "Maximum temperature (\u00b0C)": 34.022745098039216,
+        "Average temperature (\u00b0C)": 27.23972144117647,
+        "Minimum temperature (\u00b0C)": 21.930980392156858,
+        "Relative humidity (%)": 52.06971388235294,
+        "Average wind speed (m/s)": 1.2018671803921568
+      }
+    },
+    "Oct": {
+      "0": {
+        "Total preciptation (mm)": 0.36204933586337756,
+        "Average atmospheric pressure (mB)": 923.2662188956356,
+        "Maximum temperature (\u00b0C)": 33.3719165085389,
+        "Average temperature (\u00b0C)": 26.97660205882353,
+        "Minimum temperature (\u00b0C)": 22.418216318785575,
+        "Relative humidity (%)": 53.66099215370019,
+        "Average wind speed (m/s)": 1.1873641024667931
+      }
+    },
+    "Nov": {
+      "0": {
+        "Total preciptation (mm)": 1.0313725490196077,
+        "Average atmospheric pressure (mB)": 859.0036434745098,
+        "Maximum temperature (\u00b0C)": 30.3421568627451,
+        "Average temperature (\u00b0C)": 24.646280933333333,
+        "Minimum temperature (\u00b0C)": 21.060588235294116,
+        "Relative humidity (%)": 53.29381269215686,
+        "Average wind speed (m/s)": 1.0295531823529411
+      }
+    },
+    "Dec": {
+      "0": {
+        "Total preciptation (mm)": 1.5935483870967744,
+        "Average atmospheric pressure (mB)": 821.6062851366223,
+        "Maximum temperature (\u00b0C)": 28.335104364326373,
+        "Average temperature (\u00b0C)": 23.17105855028463,
+        "Minimum temperature (\u00b0C)": 20.279696394686905,
+        "Relative humidity (%)": 54.67021914041746,
+        "Average wind speed (m/s)": 0.8957089392789374
+      }
+    }
+  },
+  "PI": {
+    "Jan": {
+      "0": {
+        "Total preciptation (mm)": 2.8592933947772656,
+        "Average atmospheric pressure (mB)": 688.9931486958525,
+        "Maximum temperature (\u00b0C)": 27.004608294930872,
+        "Average temperature (\u00b0C)": 15.538654993855605,
+        "Minimum temperature (\u00b0C)": 15.752534562211979,
+        "Relative humidity (%)": 51.682682254992315,
+        "Average wind speed (m/s)": 0.8966596850998463
+      }
+    },
+    "Feb": {
+      "0": {
+        "Total preciptation (mm)": 2.688775510204082,
+        "Average atmospheric pressure (mB)": 672.5686877091837,
+        "Maximum temperature (\u00b0C)": 25.875,
+        "Average temperature (\u00b0C)": 15.424312520408163,
+        "Minimum temperature (\u00b0C)": 14.55918367346939,
+        "Relative humidity (%)": 48.812545938775514,
+        "Average wind speed (m/s)": 0.8140012925170068
+      }
+    },
+    "Mar": {
+      "0": {
+        "Total preciptation (mm)": 5.5115207373271895,
+        "Average atmospheric pressure (mB)": 762.3078279800308,
+        "Maximum temperature (\u00b0C)": 28.396466973886326,
+        "Average temperature (\u00b0C)": 17.811914170506913,
+        "Minimum temperature (\u00b0C)": 16.485560675883256,
+        "Relative humidity (%)": 59.17939824577574,
+        "Average wind speed (m/s)": 0.9222654316436253
+      }
+    },
+    "Apr": {
+      "0": {
+        "Total preciptation (mm)": 3.264444444444445,
+        "Average atmospheric pressure (mB)": 820.6242551888889,
+        "Maximum temperature (\u00b0C)": 30.662698412698415,
+        "Average temperature (\u00b0C)": 19.7991455031746,
+        "Minimum temperature (\u00b0C)": 17.59952380952381,
+        "Relative humidity (%)": 63.98578138412698,
+        "Average wind speed (m/s)": 0.9521466444444444
+      }
+    },
+    "May": {
+      "0": {
+        "Total preciptation (mm)": 1.7938556067588327,
+        "Average atmospheric pressure (mB)": 868.7600743917051,
+        "Maximum temperature (\u00b0C)": 29.966973886328727,
+        "Average temperature (\u00b0C)": 21.325394502304146,
+        "Minimum temperature (\u00b0C)": 18.707066052227344,
+        "Relative humidity (%)": 65.40010753456221,
+        "Average wind speed (m/s)": 1.246658430107527
+      }
+    },
+    "Jun": {
+      "0": {
+        "Total preciptation (mm)": 0.21904761904761902,
+        "Average atmospheric pressure (mB)": 885.0013901857144,
+        "Maximum temperature (\u00b0C)": 31.679206349206343,
+        "Average temperature (\u00b0C)": 22.277050114285714,
+        "Minimum temperature (\u00b0C)": 18.069841269841266,
+        "Relative humidity (%)": 58.94206298571428,
+        "Average wind speed (m/s)": 1.7298503746031748
+      }
+    },
+    "Jul": {
+      "0": {
+        "Total preciptation (mm)": 0.04915514592933948,
+        "Average atmospheric pressure (mB)": 843.8387568525345,
+        "Maximum temperature (\u00b0C)": 32.3273425499232,
+        "Average temperature (\u00b0C)": 22.19174025345622,
+        "Minimum temperature (\u00b0C)": 17.491705069124425,
+        "Relative humidity (%)": 48.72311965284179,
+        "Average wind speed (m/s)": 1.7453677588325653
+      }
+    },
+    "Aug": {
+      "0": {
+        "Total preciptation (mm)": 0.22949308755760373,
+        "Average atmospheric pressure (mB)": 866.5902678940093,
+        "Maximum temperature (\u00b0C)": 34.46236559139785,
+        "Average temperature (\u00b0C)": 24.21450552688172,
+        "Minimum temperature (\u00b0C)": 19.198156682027648,
+        "Relative humidity (%)": 46.956935456221196,
+        "Average wind speed (m/s)": 1.8557185268817205
+      }
+    },
+    "Sep": {
+      "0": {
+        "Total preciptation (mm)": 0.08222222222222222,
+        "Average atmospheric pressure (mB)": 816.3793769555556,
+        "Maximum temperature (\u00b0C)": 35.16444444444445,
+        "Average temperature (\u00b0C)": 23.983339652380952,
+        "Minimum temperature (\u00b0C)": 19.398730158730157,
+        "Relative humidity (%)": 40.43239343968254,
+        "Average wind speed (m/s)": 2.0423750174603175
+      }
+    },
+    "Oct": {
+      "0": {
+        "Total preciptation (mm)": 0.10168970814132106,
+        "Average atmospheric pressure (mB)": 797.806227904762,
+        "Maximum temperature (\u00b0C)": 34.05130568356375,
+        "Average temperature (\u00b0C)": 23.56043857142857,
+        "Minimum temperature (\u00b0C)": 19.32872503840246,
+        "Relative humidity (%)": 37.05137930414747,
+        "Average wind speed (m/s)": 1.7834005668202764
+      }
+    },
+    "Nov": {
+      "0": {
+        "Total preciptation (mm)": 1.9073015873015873,
+        "Average atmospheric pressure (mB)": 808.2885158825395,
+        "Maximum temperature (\u00b0C)": 31.317619047619047,
+        "Average temperature (\u00b0C)": 22.208741809523808,
+        "Minimum temperature (\u00b0C)": 19.78095238095238,
+        "Relative humidity (%)": 50.07017915873017,
+        "Average wind speed (m/s)": 1.648599474603175
+      }
+    },
+    "Dec": {
+      "0": {
+        "Total preciptation (mm)": 1.617511520737327,
+        "Average atmospheric pressure (mB)": 781.9041700430108,
+        "Maximum temperature (\u00b0C)": 30.49170506912442,
+        "Average temperature (\u00b0C)": 21.233976004608298,
+        "Minimum temperature (\u00b0C)": 19.687250384024576,
+        "Relative humidity (%)": 51.09425411827957,
+        "Average wind speed (m/s)": 1.55596110906298
+      }
+    }
+  },
+  "CE": {
+    "Jan": {
+      "0": {
+        "Total preciptation (mm)": 2.7350806451612906,
+        "Average atmospheric pressure (mB)": 744.9305206068548,
+        "Maximum temperature (\u00b0C)": 24.932661290322578,
+        "Average temperature (\u00b0C)": 20.17555844556452,
+        "Minimum temperature (\u00b0C)": 17.236088709677418,
+        "Relative humidity (%)": 46.71803988911291,
+        "Average wind speed (m/s)": 1.5270548487903226
+      }
+    },
+    "Feb": {
+      "0": {
+        "Total preciptation (mm)": 3.1763392857142856,
+        "Average atmospheric pressure (mB)": 727.9904213727677,
+        "Maximum temperature (\u00b0C)": 24.045535714285716,
+        "Average temperature (\u00b0C)": 19.40319955580357,
+        "Minimum temperature (\u00b0C)": 16.849553571428572,
+        "Relative humidity (%)": 46.788621330357145,
+        "Average wind speed (m/s)": 1.298344497767857
+      }
+    },
+    "Mar": {
+      "0": {
+        "Total preciptation (mm)": 7.415725806451613,
+        "Average atmospheric pressure (mB)": 866.2890889475807,
+        "Maximum temperature (\u00b0C)": 27.752620967741937,
+        "Average temperature (\u00b0C)": 22.139080211693546,
+        "Minimum temperature (\u00b0C)": 19.62076612903226,
+        "Relative humidity (%)": 60.54978275,
+        "Average wind speed (m/s)": 1.2831655241935485
+      }
+    },
+    "Apr": {
+      "0": {
+        "Total preciptation (mm)": 4.563333333333333,
+        "Average atmospheric pressure (mB)": 813.4421060979166,
+        "Maximum temperature (\u00b0C)": 25.68479166666667,
+        "Average temperature (\u00b0C)": 20.6200299625,
+        "Minimum temperature (\u00b0C)": 18.303125,
+        "Relative humidity (%)": 56.318848914583334,
+        "Average wind speed (m/s)": 1.1338865875000002
+      }
+    },
+    "May": {
+      "0": {
+        "Total preciptation (mm)": 1.0149193548387097,
+        "Average atmospheric pressure (mB)": 736.393371203629,
+        "Maximum temperature (\u00b0C)": 24.51310483870968,
+        "Average temperature (\u00b0C)": 19.49746664516129,
+        "Minimum temperature (\u00b0C)": 17.016532258064515,
+        "Relative humidity (%)": 50.81435606451613,
+        "Average wind speed (m/s)": 1.3114159778225805
+      }
+    },
+    "Jun": {
+      "0": {
+        "Total preciptation (mm)": 0.5383333333333333,
+        "Average atmospheric pressure (mB)": 735.3919561437501,
+        "Maximum temperature (\u00b0C)": 24.206041666666664,
+        "Average temperature (\u00b0C)": 19.272078745833333,
+        "Minimum temperature (\u00b0C)": 16.702291666666667,
+        "Relative humidity (%)": 49.14070290416667,
+        "Average wind speed (m/s)": 1.58407755625
+      }
+    },
+    "Jul": {
+      "0": {
+        "Total preciptation (mm)": 0.19475806451612904,
+        "Average atmospheric pressure (mB)": 718.0494477862903,
+        "Maximum temperature (\u00b0C)": 25.02741935483871,
+        "Average temperature (\u00b0C)": 18.734269090725807,
+        "Minimum temperature (\u00b0C)": 16.103024193548386,
+        "Relative humidity (%)": 45.7420789233871,
+        "Average wind speed (m/s)": 1.7529034919354838
+      }
+    },
+    "Aug": {
+      "0": {
+        "Total preciptation (mm)": 0.0782258064516129,
+        "Average atmospheric pressure (mB)": 800.489317516129,
+        "Maximum temperature (\u00b0C)": 28.733467741935485,
+        "Average temperature (\u00b0C)": 21.64342592137097,
+        "Minimum temperature (\u00b0C)": 18.234879032258064,
+        "Relative humidity (%)": 48.55654176612903,
+        "Average wind speed (m/s)": 2.0704181975806453
+      }
+    },
+    "Sep": {
+      "0": {
+        "Total preciptation (mm)": 0.030833333333333338,
+        "Average atmospheric pressure (mB)": 863.2865555708333,
+        "Maximum temperature (\u00b0C)": 32.531875,
+        "Average temperature (\u00b0C)": 23.850206866666667,
+        "Minimum temperature (\u00b0C)": 20.139583333333334,
+        "Relative humidity (%)": 48.78075051458334,
+        "Average wind speed (m/s)": 2.6615977791666663
+      }
+    },
+    "Oct": {
+      "0": {
+        "Total preciptation (mm)": 0.009274193548387098,
+        "Average atmospheric pressure (mB)": 752.2880689455644,
+        "Maximum temperature (\u00b0C)": 29.75907258064516,
+        "Average temperature (\u00b0C)": 21.22740849596774,
+        "Minimum temperature (\u00b0C)": 18.87177419354839,
+        "Relative humidity (%)": 45.930244901209676,
+        "Average wind speed (m/s)": 2.460464631048387
+      }
+    },
+    "Nov": {
+      "0": {
+        "Total preciptation (mm)": 0.20625,
+        "Average atmospheric pressure (mB)": 659.6435537875,
+        "Maximum temperature (\u00b0C)": 27.098750000000003,
+        "Average temperature (\u00b0C)": 20.394927647916667,
+        "Minimum temperature (\u00b0C)": 18.2025,
+        "Relative humidity (%)": 45.68878469166667,
+        "Average wind speed (m/s)": 2.2161373604166665
+      }
+    },
+    "Dec": {
+      "0": {
+        "Total preciptation (mm)": 0.5798387096774194,
+        "Average atmospheric pressure (mB)": 654.7878153225807,
+        "Maximum temperature (\u00b0C)": 26.068145161290325,
+        "Average temperature (\u00b0C)": 20.49523439919355,
+        "Minimum temperature (\u00b0C)": 17.90302419354839,
+        "Relative humidity (%)": 46.756551661290324,
+        "Average wind speed (m/s)": 2.024362780241936
+      }
+    }
+  },
+  "RN": {
+    "Jan": {
+      "0": {
+        "Total preciptation (mm)": 0.2620967741935484,
+        "Average atmospheric pressure (mB)": 391.01717377419357,
+        "Maximum temperature (\u00b0C)": 24.256451612903227,
+        "Average temperature (\u00b0C)": 10.708128778225806,
+        "Minimum temperature (\u00b0C)": 9.640322580645162,
+        "Relative humidity (%)": 26.35387014112903,
+        "Average wind speed (m/s)": 1.371427568548387
+      }
+    },
+    "Feb": {
+      "0": {
+        "Total preciptation (mm)": 0.7160714285714285,
+        "Average atmospheric pressure (mB)": 486.45324215178573,
+        "Maximum temperature (\u00b0C)": 25.418750000000003,
+        "Average temperature (\u00b0C)": 13.26424850892857,
+        "Minimum temperature (\u00b0C)": 12.08125,
+        "Relative humidity (%)": 33.48757729017858,
+        "Average wind speed (m/s)": 1.5966511339285714
+      }
+    },
+    "Mar": {
+      "0": {
+        "Total preciptation (mm)": 2.782258064516129,
+        "Average atmospheric pressure (mB)": 499.80661890725804,
+        "Maximum temperature (\u00b0C)": 24.368951612903224,
+        "Average temperature (\u00b0C)": 13.413042758064517,
+        "Minimum temperature (\u00b0C)": 11.665725806451613,
+        "Relative humidity (%)": 36.115097770161285,
+        "Average wind speed (m/s)": 1.2700765604838709
+      }
+    },
+    "Apr": {
+      "0": {
+        "Total preciptation (mm)": 1.396666666666667,
+        "Average atmospheric pressure (mB)": 499.49894288333337,
+        "Maximum temperature (\u00b0C)": 24.102916666666665,
+        "Average temperature (\u00b0C)": 13.320050170833333,
+        "Minimum temperature (\u00b0C)": 11.59125,
+        "Relative humidity (%)": 36.03848335833334,
+        "Average wind speed (m/s)": 1.1122660791666665
+      }
+    },
+    "May": {
+      "0": {
+        "Total preciptation (mm)": 0.607258064516129,
+        "Average atmospheric pressure (mB)": 500.27911625403226,
+        "Maximum temperature (\u00b0C)": 24.730241935483868,
+        "Average temperature (\u00b0C)": 13.529401891129032,
+        "Minimum temperature (\u00b0C)": 11.609677419354838,
+        "Relative humidity (%)": 37.37098946370968,
+        "Average wind speed (m/s)": 1.258182120967742
+      }
+    },
+    "Jun": {
+      "0": {
+        "Total preciptation (mm)": 0.6325000000000001,
+        "Average atmospheric pressure (mB)": 467.46308780000004,
+        "Maximum temperature (\u00b0C)": 23.24041666666667,
+        "Average temperature (\u00b0C)": 12.165607641666668,
+        "Minimum temperature (\u00b0C)": 10.410833333333333,
+        "Relative humidity (%)": 33.73808182916667,
+        "Average wind speed (m/s)": 1.2627827291666667
+      }
+    },
+    "Jul": {
+      "0": {
+        "Total preciptation (mm)": 0.6395161290322582,
+        "Average atmospheric pressure (mB)": 575.1221438306452,
+        "Maximum temperature (\u00b0C)": 23.721774193548384,
+        "Average temperature (\u00b0C)": 15.20194893548387,
+        "Minimum temperature (\u00b0C)": 12.241532258064517,
+        "Relative humidity (%)": 38.53495565322581,
+        "Average wind speed (m/s)": 1.6860719032258065
+      }
+    },
+    "Aug": {
+      "0": {
+        "Total preciptation (mm)": 0.5782258064516128,
+        "Average atmospheric pressure (mB)": 756.7125671895161,
+        "Maximum temperature (\u00b0C)": 27.10483870967742,
+        "Average temperature (\u00b0C)": 20.291549072580647,
+        "Minimum temperature (\u00b0C)": 16.120967741935488,
+        "Relative humidity (%)": 49.84941621774193,
+        "Average wind speed (m/s)": 2.309358177419355
+      }
+    },
+    "Sep": {
+      "0": {
+        "Total preciptation (mm)": 0.2733333333333334,
+        "Average atmospheric pressure (mB)": 873.5211133166667,
+        "Maximum temperature (\u00b0C)": 29.8825,
+        "Average temperature (\u00b0C)": 23.752584925,
+        "Minimum temperature (\u00b0C)": 19.37833333333333,
+        "Relative humidity (%)": 54.10290549583333,
+        "Average wind speed (m/s)": 3.0845155249999996
+      }
+    },
+    "Oct": {
+      "0": {
+        "Total preciptation (mm)": 0.0008064516129032258,
+        "Average atmospheric pressure (mB)": 754.5976217943548,
+        "Maximum temperature (\u00b0C)": 28.91814516129032,
+        "Average temperature (\u00b0C)": 20.996699149193546,
+        "Minimum temperature (\u00b0C)": 17.48225806451613,
+        "Relative humidity (%)": 45.87443402016129,
+        "Average wind speed (m/s)": 2.6767105887096774
+      }
+    },
+    "Nov": {
+      "0": {
+        "Total preciptation (mm)": 0.09416666666666666,
+        "Average atmospheric pressure (mB)": 599.5003752125,
+        "Maximum temperature (\u00b0C)": 21.917916666666663,
+        "Average temperature (\u00b0C)": 17.1344744125,
+        "Minimum temperature (\u00b0C)": 14.60125,
+        "Relative humidity (%)": 37.172135645833336,
+        "Average wind speed (m/s)": 2.15092565
+      }
+    },
+    "Dec": {
+      "0": {
+        "Total preciptation (mm)": 0.7387096774193549,
+        "Average atmospheric pressure (mB)": 653.0308146612904,
+        "Maximum temperature (\u00b0C)": 23.73991935483871,
+        "Average temperature (\u00b0C)": 15.494431072580646,
+        "Minimum temperature (\u00b0C)": 16.222983870967745,
+        "Relative humidity (%)": 42.794375298387095,
+        "Average wind speed (m/s)": 2.0574149475806447
+      }
+    }
+  },
+  "PB": {
+    "Jan": {
+      "0": {
+        "Total preciptation (mm)": 1.421505376344086,
+        "Average atmospheric pressure (mB)": 755.6777817741936,
+        "Maximum temperature (\u00b0C)": 26.708243727598568,
+        "Average temperature (\u00b0C)": 19.728836906810034,
+        "Minimum temperature (\u00b0C)": 17.012186379928316,
+        "Relative humidity (%)": 46.27992248387097,
+        "Average wind speed (m/s)": 1.2823118064516128
+      }
+    },
+    "Feb": {
+      "0": {
+        "Total preciptation (mm)": 1.815079365079365,
+        "Average atmospheric pressure (mB)": 755.5263357619046,
+        "Maximum temperature (\u00b0C)": 28.810714285714287,
+        "Average temperature (\u00b0C)": 20.22524592063492,
+        "Minimum temperature (\u00b0C)": 17.270238095238096,
+        "Relative humidity (%)": 47.19734842857143,
+        "Average wind speed (m/s)": 1.263630956349206
+      }
+    },
+    "Mar": {
+      "0": {
+        "Total preciptation (mm)": 4.639426523297491,
+        "Average atmospheric pressure (mB)": 927.7983786845876,
+        "Maximum temperature (\u00b0C)": 31.059139784946233,
+        "Average temperature (\u00b0C)": 24.154347652329747,
+        "Minimum temperature (\u00b0C)": 21.11111111111111,
+        "Relative humidity (%)": 62.51158646594982,
+        "Average wind speed (m/s)": 1.1396256200716846
+      }
+    },
+    "Apr": {
+      "0": {
+        "Total preciptation (mm)": 3.7007407407407413,
+        "Average atmospheric pressure (mB)": 892.7301406333332,
+        "Maximum temperature (\u00b0C)": 31.053703703703704,
+        "Average temperature (\u00b0C)": 22.749038051851855,
+        "Minimum temperature (\u00b0C)": 20.236666666666665,
+        "Relative humidity (%)": 68.57737176666666,
+        "Average wind speed (m/s)": 0.8643903333333333
+      }
+    },
+    "May": {
+      "0": {
+        "Total preciptation (mm)": 2.925448028673835,
+        "Average atmospheric pressure (mB)": 861.4699626487455,
+        "Maximum temperature (\u00b0C)": 30.870250896057346,
+        "Average temperature (\u00b0C)": 21.323046039426526,
+        "Minimum temperature (\u00b0C)": 20.23225806451613,
+        "Relative humidity (%)": 66.80316716129032,
+        "Average wind speed (m/s)": 0.9310325376344086
+      }
+    },
+    "Jun": {
+      "0": {
+        "Total preciptation (mm)": 4.816296296296296,
+        "Average atmospheric pressure (mB)": 848.4112453074075,
+        "Maximum temperature (\u00b0C)": 29.467037037037034,
+        "Average temperature (\u00b0C)": 18.871794018518518,
+        "Minimum temperature (\u00b0C)": 18.48074074074074,
+        "Relative humidity (%)": 61.570359544444436,
+        "Average wind speed (m/s)": 1.0034083740740742
+      }
+    },
+    "Jul": {
+      "0": {
+        "Total preciptation (mm)": 1.8501792114695341,
+        "Average atmospheric pressure (mB)": 832.3867411326164,
+        "Maximum temperature (\u00b0C)": 29.910035842293908,
+        "Average temperature (\u00b0C)": 19.20737652329749,
+        "Minimum temperature (\u00b0C)": 18.174910394265236,
+        "Relative humidity (%)": 58.93333185304659,
+        "Average wind speed (m/s)": 1.2031174229390682
+      }
+    },
+    "Aug": {
+      "0": {
+        "Total preciptation (mm)": 1.2164874551971325,
+        "Average atmospheric pressure (mB)": 951.4977619175629,
+        "Maximum temperature (\u00b0C)": 31.092831541218636,
+        "Average temperature (\u00b0C)": 22.086274096774197,
+        "Minimum temperature (\u00b0C)": 20.34731182795699,
+        "Relative humidity (%)": 60.28143844444445,
+        "Average wind speed (m/s)": 1.47192823655914
+      }
+    },
+    "Sep": {
+      "0": {
+        "Total preciptation (mm)": 1.2103703703703703,
+        "Average atmospheric pressure (mB)": 971.9780197518517,
+        "Maximum temperature (\u00b0C)": 31.904074074074074,
+        "Average temperature (\u00b0C)": 23.651228881481487,
+        "Minimum temperature (\u00b0C)": 20.895925925925926,
+        "Relative humidity (%)": 57.65329367777778,
+        "Average wind speed (m/s)": 1.927029914814815
+      }
+    },
+    "Oct": {
+      "0": {
+        "Total preciptation (mm)": 0.15197132616487455,
+        "Average atmospheric pressure (mB)": 871.9640700143369,
+        "Maximum temperature (\u00b0C)": 29.910752688172042,
+        "Average temperature (\u00b0C)": 23.085008336917564,
+        "Minimum temperature (\u00b0C)": 19.227956989247314,
+        "Relative humidity (%)": 47.770868290322575,
+        "Average wind speed (m/s)": 1.623100541218638
+      }
+    },
+    "Nov": {
+      "0": {
+        "Total preciptation (mm)": 1.0481481481481483,
+        "Average atmospheric pressure (mB)": 864.3326736296297,
+        "Maximum temperature (\u00b0C)": 29.794814814814817,
+        "Average temperature (\u00b0C)": 22.91148131111111,
+        "Minimum temperature (\u00b0C)": 19.85666666666667,
+        "Relative humidity (%)": 48.55224306296296,
+        "Average wind speed (m/s)": 1.5564701629629631
+      }
+    },
+    "Dec": {
+      "0": {
+        "Total preciptation (mm)": 0.9784946236559138,
+        "Average atmospheric pressure (mB)": 768.5802236774193,
+        "Maximum temperature (\u00b0C)": 26.076702508960572,
+        "Average temperature (\u00b0C)": 20.246042172043012,
+        "Minimum temperature (\u00b0C)": 18.031541218637994,
+        "Relative humidity (%)": 44.276174892473115,
+        "Average wind speed (m/s)": 0.9931860609318998
+      }
+    }
+  },
+  "PE": {
+    "Jan": {
+      "0": {
+        "Total preciptation (mm)": 0.5339950372208436,
+        "Average atmospheric pressure (mB)": 665.377251191067,
+        "Maximum temperature (\u00b0C)": 22.628039702233252,
+        "Average temperature (\u00b0C)": 17.389686022332505,
+        "Minimum temperature (\u00b0C)": 14.5985111662531,
+        "Relative humidity (%)": 46.2436931662531,
+        "Average wind speed (m/s)": 1.483739339950372
+      }
+    },
+    "Feb": {
+      "0": {
+        "Total preciptation (mm)": 0.8296703296703296,
+        "Average atmospheric pressure (mB)": 665.3370641483517,
+        "Maximum temperature (\u00b0C)": 23.03214285714286,
+        "Average temperature (\u00b0C)": 17.941111483516483,
+        "Minimum temperature (\u00b0C)": 14.842032967032967,
+        "Relative humidity (%)": 45.18548221428572,
+        "Average wind speed (m/s)": 1.5982650109890106
+      }
+    },
+    "Mar": {
+      "0": {
+        "Total preciptation (mm)": 2.977667493796526,
+        "Average atmospheric pressure (mB)": 736.6315608883374,
+        "Maximum temperature (\u00b0C)": 24.62704714640199,
+        "Average temperature (\u00b0C)": 19.732594066997518,
+        "Minimum temperature (\u00b0C)": 16.36377171215881,
+        "Relative humidity (%)": 50.99855242679901,
+        "Average wind speed (m/s)": 1.5548037617866004
+      }
+    },
+    "Apr": {
+      "0": {
+        "Total preciptation (mm)": 1.2451282051282049,
+        "Average atmospheric pressure (mB)": 738.6454984230769,
+        "Maximum temperature (\u00b0C)": 24.170256410256414,
+        "Average temperature (\u00b0C)": 19.3539920025641,
+        "Minimum temperature (\u00b0C)": 16.21,
+        "Relative humidity (%)": 50.57779063846154,
+        "Average wind speed (m/s)": 1.2756818307692308
+      }
+    },
+    "May": {
+      "0": {
+        "Total preciptation (mm)": 2.2714640198511167,
+        "Average atmospheric pressure (mB)": 850.7530931736973,
+        "Maximum temperature (\u00b0C)": 27.107692307692307,
+        "Average temperature (\u00b0C)": 21.68628641439206,
+        "Minimum temperature (\u00b0C)": 18.61588089330025,
+        "Relative humidity (%)": 61.29819886600497,
+        "Average wind speed (m/s)": 1.7983296799007447
+      }
+    },
+    "Jun": {
+      "0": {
+        "Total preciptation (mm)": 2.481025641025641,
+        "Average atmospheric pressure (mB)": 838.0634675769232,
+        "Maximum temperature (\u00b0C)": 24.512051282051285,
+        "Average temperature (\u00b0C)": 20.087118166666666,
+        "Minimum temperature (\u00b0C)": 17.382564102564103,
+        "Relative humidity (%)": 57.0605757974359,
+        "Average wind speed (m/s)": 2.1084076589743592
+      }
+    },
+    "Jul": {
+      "0": {
+        "Total preciptation (mm)": 1.145409429280397,
+        "Average atmospheric pressure (mB)": 814.013736215881,
+        "Maximum temperature (\u00b0C)": 24.159801488833747,
+        "Average temperature (\u00b0C)": 19.34032571712159,
+        "Minimum temperature (\u00b0C)": 15.946401985111663,
+        "Relative humidity (%)": 51.07426898759305,
+        "Average wind speed (m/s)": 2.1227604615384617
+      }
+    },
+    "Aug": {
+      "0": {
+        "Total preciptation (mm)": 0.9930521091811413,
+        "Average atmospheric pressure (mB)": 794.5882847394543,
+        "Maximum temperature (\u00b0C)": 25.581637717121588,
+        "Average temperature (\u00b0C)": 20.126894305210914,
+        "Minimum temperature (\u00b0C)": 16.45062034739454,
+        "Relative humidity (%)": 50.32418674689826,
+        "Average wind speed (m/s)": 2.1958514863523573
+      }
+    },
+    "Sep": {
+      "0": {
+        "Total preciptation (mm)": 0.7282051282051282,
+        "Average atmospheric pressure (mB)": 762.8096518948719,
+        "Maximum temperature (\u00b0C)": 26.513076923076923,
+        "Average temperature (\u00b0C)": 20.94833596923077,
+        "Minimum temperature (\u00b0C)": 16.918205128205127,
+        "Relative humidity (%)": 47.20554103846155,
+        "Average wind speed (m/s)": 2.4653220692307687
+      }
+    },
+    "Oct": {
+      "0": {
+        "Total preciptation (mm)": 0.1895781637717122,
+        "Average atmospheric pressure (mB)": 769.655087369727,
+        "Maximum temperature (\u00b0C)": 28.381885856079407,
+        "Average temperature (\u00b0C)": 21.89302766004963,
+        "Minimum temperature (\u00b0C)": 17.476674937965264,
+        "Relative humidity (%)": 44.17422675186104,
+        "Average wind speed (m/s)": 2.3236314913151364
+      }
+    },
+    "Nov": {
+      "0": {
+        "Total preciptation (mm)": 0.5317948717948718,
+        "Average atmospheric pressure (mB)": 749.3352371128204,
+        "Maximum temperature (\u00b0C)": 27.572307692307692,
+        "Average temperature (\u00b0C)": 21.355684,
+        "Minimum temperature (\u00b0C)": 17.70307692307692,
+        "Relative humidity (%)": 40.41326915641025,
+        "Average wind speed (m/s)": 2.0410482179487177
+      }
+    },
+    "Dec": {
+      "0": {
+        "Total preciptation (mm)": 0.8188585607940446,
+        "Average atmospheric pressure (mB)": 758.3720096476427,
+        "Maximum temperature (\u00b0C)": 26.91091811414392,
+        "Average temperature (\u00b0C)": 20.964713635235732,
+        "Minimum temperature (\u00b0C)": 18.04913151364764,
+        "Relative humidity (%)": 37.84059869478908,
+        "Average wind speed (m/s)": 1.932025047146402
+      }
+    }
+  },
+  "AL": {
+    "Jan": {
+      "0": {
+        "Total preciptation (mm)": 0.4119815668202765,
+        "Average atmospheric pressure (mB)": 909.439865235023,
+        "Maximum temperature (\u00b0C)": 28.441013824884795,
+        "Average temperature (\u00b0C)": 19.240664041474655,
+        "Minimum temperature (\u00b0C)": 18.229032258064514,
+        "Relative humidity (%)": 52.37344193087557,
+        "Average wind speed (m/s)": 1.5493631612903227
+      }
+    },
+    "Feb": {
+      "0": {
+        "Total preciptation (mm)": 0.6091836734693877,
+        "Average atmospheric pressure (mB)": 998.1067586326529,
+        "Maximum temperature (\u00b0C)": 28.465306122448983,
+        "Average temperature (\u00b0C)": 21.141274867346937,
+        "Minimum temperature (\u00b0C)": 19.660204081632653,
+        "Relative humidity (%)": 53.79398104081632,
+        "Average wind speed (m/s)": 1.6723704336734693
+      }
+    },
+    "Mar": {
+      "0": {
+        "Total preciptation (mm)": 1.0534562211981569,
+        "Average atmospheric pressure (mB)": 988.7293278801844,
+        "Maximum temperature (\u00b0C)": 28.341474654377883,
+        "Average temperature (\u00b0C)": 21.321375391705068,
+        "Minimum temperature (\u00b0C)": 19.568202764976956,
+        "Relative humidity (%)": 54.35700847004608,
+        "Average wind speed (m/s)": 1.5567735576036863
+      }
+    },
+    "Apr": {
+      "0": {
+        "Total preciptation (mm)": 1.118095238095238,
+        "Average atmospheric pressure (mB)": 987.7524850571428,
+        "Maximum temperature (\u00b0C)": 27.9052380952381,
+        "Average temperature (\u00b0C)": 22.20008407142857,
+        "Minimum temperature (\u00b0C)": 19.68952380952381,
+        "Relative humidity (%)": 55.69745737142858,
+        "Average wind speed (m/s)": 1.2542170857142858
+      }
+    },
+    "May": {
+      "0": {
+        "Total preciptation (mm)": 1.8976958525345624,
+        "Average atmospheric pressure (mB)": 835.9106444239632,
+        "Maximum temperature (\u00b0C)": 24.67004608294931,
+        "Average temperature (\u00b0C)": 17.74444682949309,
+        "Minimum temperature (\u00b0C)": 16.603686635944698,
+        "Relative humidity (%)": 49.41541407373272,
+        "Average wind speed (m/s)": 1.061702801843318
+      }
+    },
+    "Jun": {
+      "0": {
+        "Total preciptation (mm)": 2.059047619047619,
+        "Average atmospheric pressure (mB)": 652.8202471476189,
+        "Maximum temperature (\u00b0C)": 23.326190476190476,
+        "Average temperature (\u00b0C)": 14.304209961904762,
+        "Minimum temperature (\u00b0C)": 13.534761904761906,
+        "Relative humidity (%)": 39.93542429523809,
+        "Average wind speed (m/s)": 0.8682519857142859
+      }
+    },
+    "Jul": {
+      "0": {
+        "Total preciptation (mm)": 1.3622119815668203,
+        "Average atmospheric pressure (mB)": 578.2640360967742,
+        "Maximum temperature (\u00b0C)": 20.413364055299535,
+        "Average temperature (\u00b0C)": 13.691455479262673,
+        "Minimum temperature (\u00b0C)": 12.0110599078341,
+        "Relative humidity (%)": 37.22100614285715,
+        "Average wind speed (m/s)": 0.8471969815668202
+      }
+    },
+    "Aug": {
+      "0": {
+        "Total preciptation (mm)": 0.7373271889400923,
+        "Average atmospheric pressure (mB)": 632.2387155253457,
+        "Maximum temperature (\u00b0C)": 21.648387096774194,
+        "Average temperature (\u00b0C)": 15.345771557603685,
+        "Minimum temperature (\u00b0C)": 13.244700460829492,
+        "Relative humidity (%)": 39.42800265437787,
+        "Average wind speed (m/s)": 1.11058733640553
+      }
+    },
+    "Sep": {
+      "0": {
+        "Total preciptation (mm)": 1.2019047619047618,
+        "Average atmospheric pressure (mB)": 1001.3108424619048,
+        "Maximum temperature (\u00b0C)": 29.966666666666665,
+        "Average temperature (\u00b0C)": 24.461586990476185,
+        "Minimum temperature (\u00b0C)": 21.003333333333334,
+        "Relative humidity (%)": 53.782979276190474,
+        "Average wind speed (m/s)": 2.161409104761905
+      }
+    },
+    "Oct": {
+      "0": {
+        "Total preciptation (mm)": 0.2175115207373272,
+        "Average atmospheric pressure (mB)": 953.1101109262673,
+        "Maximum temperature (\u00b0C)": 31.001843317972348,
+        "Average temperature (\u00b0C)": 24.39817711059908,
+        "Minimum temperature (\u00b0C)": 20.521198156682026,
+        "Relative humidity (%)": 49.711712345622125,
+        "Average wind speed (m/s)": 2.357753271889401
+      }
+    },
+    "Nov": {
+      "0": {
+        "Total preciptation (mm)": 0.12380952380952381,
+        "Average atmospheric pressure (mB)": 854.6994719619048,
+        "Maximum temperature (\u00b0C)": 29.50095238095238,
+        "Average temperature (\u00b0C)": 21.921482599999997,
+        "Minimum temperature (\u00b0C)": 19.219047619047622,
+        "Relative humidity (%)": 40.59528112380952,
+        "Average wind speed (m/s)": 2.3014497523809525
+      }
+    },
+    "Dec": {
+      "0": {
+        "Total preciptation (mm)": 0.44792626728110607,
+        "Average atmospheric pressure (mB)": 881.8645075622119,
+        "Maximum temperature (\u00b0C)": 31.306451612903224,
+        "Average temperature (\u00b0C)": 20.58186722119816,
+        "Minimum temperature (\u00b0C)": 21.59308755760369,
+        "Relative humidity (%)": 48.70143791244239,
+        "Average wind speed (m/s)": 2.1427866866359446
+      }
+    }
+  },
+  "SE": {
+    "Jan": {
+      "0": {
+        "Total preciptation (mm)": 0.3698924731182796,
+        "Average atmospheric pressure (mB)": 542.1033431344086,
+        "Maximum temperature (\u00b0C)": 21.216129032258067,
+        "Average temperature (\u00b0C)": 14.005609317204302,
+        "Minimum temperature (\u00b0C)": 13.173655913978495,
+        "Relative humidity (%)": 30.490035172043008,
+        "Average wind speed (m/s)": 0.6353832526881721
+      }
+    },
+    "Feb": {
+      "0": {
+        "Total preciptation (mm)": 0.8904761904761904,
+        "Average atmospheric pressure (mB)": 541.4515186428572,
+        "Maximum temperature (\u00b0C)": 20.904166666666665,
+        "Average temperature (\u00b0C)": 14.453044125,
+        "Minimum temperature (\u00b0C)": 13.209523809523809,
+        "Relative humidity (%)": 30.70186377380952,
+        "Average wind speed (m/s)": 0.5484655357142857
+      }
+    },
+    "Mar": {
+      "0": {
+        "Total preciptation (mm)": 1.3870967741935487,
+        "Average atmospheric pressure (mB)": 616.6756482043012,
+        "Maximum temperature (\u00b0C)": 20.562903225806455,
+        "Average temperature (\u00b0C)": 15.961135021505376,
+        "Minimum temperature (\u00b0C)": 14.373118279569894,
+        "Relative humidity (%)": 33.13339929569893,
+        "Average wind speed (m/s)": 0.6420105913978494
+      }
+    },
+    "Apr": {
+      "0": {
+        "Total preciptation (mm)": 1.348888888888889,
+        "Average atmospheric pressure (mB)": 494.3465808000001,
+        "Maximum temperature (\u00b0C)": 18.48,
+        "Average temperature (\u00b0C)": 12.502809955555556,
+        "Minimum temperature (\u00b0C)": 11.853333333333333,
+        "Relative humidity (%)": 31.039942049999997,
+        "Average wind speed (m/s)": 0.6636434777777778
+      }
+    },
+    "May": {
+      "0": {
+        "Total preciptation (mm)": 2.5430107526881724,
+        "Average atmospheric pressure (mB)": 458.4063414677419,
+        "Maximum temperature (\u00b0C)": 17.474193548387095,
+        "Average temperature (\u00b0C)": 11.112265811827958,
+        "Minimum temperature (\u00b0C)": 10.81505376344086,
+        "Relative humidity (%)": 22.73769468817204,
+        "Average wind speed (m/s)": 0.7465736612903227
+      }
+    },
+    "Jun": {
+      "0": {
+        "Total preciptation (mm)": 1.5899999999999999,
+        "Average atmospheric pressure (mB)": 479.9556526833333,
+        "Maximum temperature (\u00b0C)": 18.385,
+        "Average temperature (\u00b0C)": 10.81923228888889,
+        "Minimum temperature (\u00b0C)": 10.355555555555554,
+        "Relative humidity (%)": 14.893287038888888,
+        "Average wind speed (m/s)": 0.7481944555555554
+      }
+    },
+    "Jul": {
+      "0": {
+        "Total preciptation (mm)": 1.0548387096774192,
+        "Average atmospheric pressure (mB)": 406.8223835107527,
+        "Maximum temperature (\u00b0C)": 17.839247311827958,
+        "Average temperature (\u00b0C)": 8.278952924731183,
+        "Minimum temperature (\u00b0C)": 9.160752688172042,
+        "Relative humidity (%)": 15.368926747311827,
+        "Average wind speed (m/s)": 0.5264910322580646
+      }
+    },
+    "Aug": {
+      "0": {
+        "Total preciptation (mm)": 0.518279569892473,
+        "Average atmospheric pressure (mB)": 495.998966172043,
+        "Maximum temperature (\u00b0C)": 17.086021505376344,
+        "Average temperature (\u00b0C)": 9.333313838709676,
+        "Minimum temperature (\u00b0C)": 10.358064516129033,
+        "Relative humidity (%)": 24.92166401075269,
+        "Average wind speed (m/s)": 0.8465143387096775
+      }
+    },
+    "Sep": {
+      "0": {
+        "Total preciptation (mm)": 0.34888888888888886,
+        "Average atmospheric pressure (mB)": 462.01673334444445,
+        "Maximum temperature (\u00b0C)": 15.278888888888888,
+        "Average temperature (\u00b0C)": 9.743827227777777,
+        "Minimum temperature (\u00b0C)": 9.887777777777778,
+        "Relative humidity (%)": 35.497672138888895,
+        "Average wind speed (m/s)": 0.7775462777777777
+      }
+    },
+    "Oct": {
+      "0": {
+        "Total preciptation (mm)": 0.06344086021505375,
+        "Average atmospheric pressure (mB)": 406.2515177526882,
+        "Maximum temperature (\u00b0C)": 13.80215053763441,
+        "Average temperature (\u00b0C)": 6.528931150537635,
+        "Minimum temperature (\u00b0C)": 8.617204301075269,
+        "Relative humidity (%)": 29.224530483870968,
+        "Average wind speed (m/s)": 0.7856976290322581
+      }
+    },
+    "Nov": {
+      "0": {
+        "Total preciptation (mm)": 0.3922222222222222,
+        "Average atmospheric pressure (mB)": 743.4221637611112,
+        "Maximum temperature (\u00b0C)": 24.665555555555557,
+        "Average temperature (\u00b0C)": 15.733777344444448,
+        "Minimum temperature (\u00b0C)": 17.014444444444447,
+        "Relative humidity (%)": 53.47359779999999,
+        "Average wind speed (m/s)": 1.8908796277777775
+      }
+    },
+    "Dec": {
+      "0": {
+        "Total preciptation (mm)": 0.9526881720430107,
+        "Average atmospheric pressure (mB)": 744.1307571612905,
+        "Maximum temperature (\u00b0C)": 24.048387096774192,
+        "Average temperature (\u00b0C)": 17.89265232795699,
+        "Minimum temperature (\u00b0C)": 17.561827956989248,
+        "Relative humidity (%)": 54.59647482258064,
+        "Average wind speed (m/s)": 1.9110614354838713
+      }
+    }
+  },
+  "BA": {
+    "Jan": {
+      "0": {
+        "Total preciptation (mm)": 2.072688172043011,
+        "Average atmospheric pressure (mB)": 644.0138395032259,
+        "Maximum temperature (\u00b0C)": 23.013978494623657,
+        "Average temperature (\u00b0C)": 15.238986929749109,
+        "Minimum temperature (\u00b0C)": 14.561075268817202,
+        "Relative humidity (%)": 48.82419239354838,
+        "Average wind speed (m/s)": 1.0910106544802867
+      }
+    },
+    "Feb": {
+      "0": {
+        "Total preciptation (mm)": 1.0273015873015874,
+        "Average atmospheric pressure (mB)": 613.9186893007937,
+        "Maximum temperature (\u00b0C)": 23.02865079365079,
+        "Average temperature (\u00b0C)": 15.616348034920636,
+        "Minimum temperature (\u00b0C)": 13.595396825396824,
+        "Relative humidity (%)": 43.64106744285714,
+        "Average wind speed (m/s)": 1.1038373396825396
+      }
+    },
+    "Mar": {
+      "0": {
+        "Total preciptation (mm)": 1.7526881720430105,
+        "Average atmospheric pressure (mB)": 594.5699059863799,
+        "Maximum temperature (\u00b0C)": 21.934480286738353,
+        "Average temperature (\u00b0C)": 15.023585411469533,
+        "Minimum temperature (\u00b0C)": 13.071541218637991,
+        "Relative humidity (%)": 44.614978580645165,
+        "Average wind speed (m/s)": 0.9705150931899641
+      }
+    },
+    "Apr": {
+      "0": {
+        "Total preciptation (mm)": 2.0463703703703704,
+        "Average atmospheric pressure (mB)": 660.8208447800001,
+        "Maximum temperature (\u00b0C)": 24.19022222222222,
+        "Average temperature (\u00b0C)": 17.123097071111108,
+        "Minimum temperature (\u00b0C)": 14.453037037037037,
+        "Relative humidity (%)": 50.28576112666667,
+        "Average wind speed (m/s)": 0.9650283451851851
+      }
+    },
+    "May": {
+      "0": {
+        "Total preciptation (mm)": 1.5989964157706094,
+        "Average atmospheric pressure (mB)": 720.3305889390681,
+        "Maximum temperature (\u00b0C)": 23.581290322580646,
+        "Average temperature (\u00b0C)": 17.622376822222222,
+        "Minimum temperature (\u00b0C)": 15.004157706093189,
+        "Relative humidity (%)": 53.724321713261645,
+        "Average wind speed (m/s)": 1.0956861376344085
+      }
+    },
+    "Jun": {
+      "0": {
+        "Total preciptation (mm)": 0.9487407407407407,
+        "Average atmospheric pressure (mB)": 746.2556873807407,
+        "Maximum temperature (\u00b0C)": 23.751555555555555,
+        "Average temperature (\u00b0C)": 17.17190379851852,
+        "Minimum temperature (\u00b0C)": 13.997851851851852,
+        "Relative humidity (%)": 54.20925718962963,
+        "Average wind speed (m/s)": 1.2436960733333333
+      }
+    },
+    "Jul": {
+      "0": {
+        "Total preciptation (mm)": 0.8906093189964158,
+        "Average atmospheric pressure (mB)": 733.7502322286738,
+        "Maximum temperature (\u00b0C)": 23.812831541218635,
+        "Average temperature (\u00b0C)": 16.822978139784947,
+        "Minimum temperature (\u00b0C)": 13.147383512544803,
+        "Relative humidity (%)": 50.24444491254479,
+        "Average wind speed (m/s)": 1.3173219577060933
+      }
+    },
+    "Aug": {
+      "0": {
+        "Total preciptation (mm)": 0.6480286738351254,
+        "Average atmospheric pressure (mB)": 763.9536726279571,
+        "Maximum temperature (\u00b0C)": 25.756344086021503,
+        "Average temperature (\u00b0C)": 18.279946979928315,
+        "Minimum temperature (\u00b0C)": 14.696845878136202,
+        "Relative humidity (%)": 51.82207331971327,
+        "Average wind speed (m/s)": 1.3923243777777778
+      }
+    },
+    "Sep": {
+      "0": {
+        "Total preciptation (mm)": 0.7505185185185185,
+        "Average atmospheric pressure (mB)": 823.6957384555556,
+        "Maximum temperature (\u00b0C)": 28.439703703703703,
+        "Average temperature (\u00b0C)": 20.39565074148148,
+        "Minimum temperature (\u00b0C)": 17.04577777777778,
+        "Relative humidity (%)": 53.48078288814814,
+        "Average wind speed (m/s)": 1.8419190607407405
+      }
+    },
+    "Oct": {
+      "0": {
+        "Total preciptation (mm)": 0.4032974910394266,
+        "Average atmospheric pressure (mB)": 791.2172505462364,
+        "Maximum temperature (\u00b0C)": 29.075053763440863,
+        "Average temperature (\u00b0C)": 20.373288849462366,
+        "Minimum temperature (\u00b0C)": 17.711039426523296,
+        "Relative humidity (%)": 49.241006034408606,
+        "Average wind speed (m/s)": 1.846907990681004
+      }
+    },
+    "Nov": {
+      "0": {
+        "Total preciptation (mm)": 0.7703703703703704,
+        "Average atmospheric pressure (mB)": 798.762609488889,
+        "Maximum temperature (\u00b0C)": 28.751629629629623,
+        "Average temperature (\u00b0C)": 20.567473300740744,
+        "Minimum temperature (\u00b0C)": 18.349925925925927,
+        "Relative humidity (%)": 52.52902509407408,
+        "Average wind speed (m/s)": 1.8695280496296296
+      }
+    },
+    "Dec": {
+      "0": {
+        "Total preciptation (mm)": 1.327311827956989,
+        "Average atmospheric pressure (mB)": 799.6252569333333,
+        "Maximum temperature (\u00b0C)": 28.739498207885298,
+        "Average temperature (\u00b0C)": 20.69056193835126,
+        "Minimum temperature (\u00b0C)": 18.633906810035842,
+        "Relative humidity (%)": 51.43538063512545,
+        "Average wind speed (m/s)": 1.8302448021505375
+      }
+    }
+  },
+  "MG": {
+    "Jan": {
+      "0": {
+        "Total preciptation (mm)": 9.593074003795065,
+        "Average atmospheric pressure (mB)": 920.7267050540798,
+        "Maximum temperature (\u00b0C)": 28.558349146110057,
+        "Average temperature (\u00b0C)": 21.99571587239089,
+        "Minimum temperature (\u00b0C)": 19.076423149905125,
+        "Relative humidity (%)": 78.17729941650853,
+        "Average wind speed (m/s)": 1.4355637063567364
+      }
+    },
+    "Feb": {
+      "0": {
+        "Total preciptation (mm)": 3.338235294117647,
+        "Average atmospheric pressure (mB)": 889.375552579832,
+        "Maximum temperature (\u00b0C)": 30.270798319327728,
+        "Average temperature (\u00b0C)": 22.433651402310925,
+        "Minimum temperature (\u00b0C)": 18.49795168067227,
+        "Relative humidity (%)": 70.30799889023109,
+        "Average wind speed (m/s)": 1.3245797368697476
+      }
+    },
+    "Mar": {
+      "0": {
+        "Total preciptation (mm)": 2.077514231499051,
+        "Average atmospheric pressure (mB)": 879.5464551333017,
+        "Maximum temperature (\u00b0C)": 29.89677419354839,
+        "Average temperature (\u00b0C)": 21.79158238235294,
+        "Minimum temperature (\u00b0C)": 17.93434535104364,
+        "Relative humidity (%)": 67.05367792504742,
+        "Average wind speed (m/s)": 1.2987062647058825
+      }
+    },
+    "Apr": {
+      "0": {
+        "Total preciptation (mm)": 2.8070588235294114,
+        "Average atmospheric pressure (mB)": 894.2577010073529,
+        "Maximum temperature (\u00b0C)": 28.1981862745098,
+        "Average temperature (\u00b0C)": 21.212010768627454,
+        "Minimum temperature (\u00b0C)": 17.385980392156863,
+        "Relative humidity (%)": 73.1912079892157,
+        "Average wind speed (m/s)": 1.2647432406862749
+      }
+    },
+    "May": {
+      "0": {
+        "Total preciptation (mm)": 0.40777988614800753,
+        "Average atmospheric pressure (mB)": 901.3015183202087,
+        "Maximum temperature (\u00b0C)": 26.86166982922201,
+        "Average temperature (\u00b0C)": 18.99046172628083,
+        "Minimum temperature (\u00b0C)": 14.156072106261862,
+        "Relative humidity (%)": 69.30533667409867,
+        "Average wind speed (m/s)": 1.1526111499051228
+      }
+    },
+    "Jun": {
+      "0": {
+        "Total preciptation (mm)": 0.24764705882352947,
+        "Average atmospheric pressure (mB)": 893.9086144823531,
+        "Maximum temperature (\u00b0C)": 26.189901960784315,
+        "Average temperature (\u00b0C)": 17.70412642058824,
+        "Minimum temperature (\u00b0C)": 12.524754901960785,
+        "Relative humidity (%)": 66.96097765343139,
+        "Average wind speed (m/s)": 1.1554891602941177
+      }
+    },
+    "Jul": {
+      "0": {
+        "Total preciptation (mm)": 0.27694497153700187,
+        "Average atmospheric pressure (mB)": 883.8366965517079,
+        "Maximum temperature (\u00b0C)": 26.644971537001894,
+        "Average temperature (\u00b0C)": 18.18637229791271,
+        "Minimum temperature (\u00b0C)": 12.772106261859582,
+        "Relative humidity (%)": 62.30268179506643,
+        "Average wind speed (m/s)": 1.400618033206831
+      }
+    },
+    "Aug": {
+      "0": {
+        "Total preciptation (mm)": 0.9732447817836811,
+        "Average atmospheric pressure (mB)": 863.395364112429,
+        "Maximum temperature (\u00b0C)": 28.214136622390892,
+        "Average temperature (\u00b0C)": 19.46526022960152,
+        "Minimum temperature (\u00b0C)": 14.195683111954459,
+        "Relative humidity (%)": 58.95590563567363,
+        "Average wind speed (m/s)": 1.4580498951612901
+      }
+    },
+    "Sep": {
+      "0": {
+        "Total preciptation (mm)": 0.6901960784313727,
+        "Average atmospheric pressure (mB)": 893.0048120882353,
+        "Maximum temperature (\u00b0C)": 31.031029411764706,
+        "Average temperature (\u00b0C)": 22.542619515686273,
+        "Minimum temperature (\u00b0C)": 17.517549019607845,
+        "Relative humidity (%)": 56.97829159509804,
+        "Average wind speed (m/s)": 1.8701537156862749
+      }
+    },
+    "Oct": {
+      "0": {
+        "Total preciptation (mm)": 3.4396584440227707,
+        "Average atmospheric pressure (mB)": 867.6640322433586,
+        "Maximum temperature (\u00b0C)": 30.77775142314991,
+        "Average temperature (\u00b0C)": 21.98094571537002,
+        "Minimum temperature (\u00b0C)": 19.070920303605313,
+        "Relative humidity (%)": 62.835031554554085,
+        "Average wind speed (m/s)": 1.7432875137571155
+      }
+    },
+    "Nov": {
+      "0": {
+        "Total preciptation (mm)": 2.7175490196078433,
+        "Average atmospheric pressure (mB)": 853.9789439857842,
+        "Maximum temperature (\u00b0C)": 30.64838235294118,
+        "Average temperature (\u00b0C)": 22.014625326470586,
+        "Minimum temperature (\u00b0C)": 18.473333333333333,
+        "Relative humidity (%)": 57.441288375000006,
+        "Average wind speed (m/s)": 1.6309773029411765
+      }
+    },
+    "Dec": {
+      "0": {
+        "Total preciptation (mm)": 3.7026565464895635,
+        "Average atmospheric pressure (mB)": 903.4651259857684,
+        "Maximum temperature (\u00b0C)": 31.554981024667935,
+        "Average temperature (\u00b0C)": 22.97926036764706,
+        "Minimum temperature (\u00b0C)": 19.901423149905124,
+        "Relative humidity (%)": 65.9582727386148,
+        "Average wind speed (m/s)": 1.699836927893738
+      }
+    }
+  },
+  "ES": {
+    "Jan": {
+      "0": {
+        "Total preciptation (mm)": 7.81021505376344,
+        "Average atmospheric pressure (mB)": 986.3060289112904,
+        "Maximum temperature (\u00b0C)": 30.345967741935482,
+        "Average temperature (\u00b0C)": 24.7911957688172,
+        "Minimum temperature (\u00b0C)": 21.48252688172043,
+        "Relative humidity (%)": 78.26956231451612,
+        "Average wind speed (m/s)": 1.8517818790322578
+      }
+    },
+    "Feb": {
+      "0": {
+        "Total preciptation (mm)": 1.495238095238095,
+        "Average atmospheric pressure (mB)": 986.8078457529763,
+        "Maximum temperature (\u00b0C)": 32.549107142857146,
+        "Average temperature (\u00b0C)": 25.887708494047615,
+        "Minimum temperature (\u00b0C)": 21.680059523809522,
+        "Relative humidity (%)": 72.26634747916667,
+        "Average wind speed (m/s)": 1.9487250833333334
+      }
+    },
+    "Mar": {
+      "0": {
+        "Total preciptation (mm)": 2.1053763440860216,
+        "Average atmospheric pressure (mB)": 987.8818193010753,
+        "Maximum temperature (\u00b0C)": 32.07688172043011,
+        "Average temperature (\u00b0C)": 25.45211983333333,
+        "Minimum temperature (\u00b0C)": 21.02715053763441,
+        "Relative humidity (%)": 73.45928425268816,
+        "Average wind speed (m/s)": 1.7557284543010754
+      }
+    },
+    "Apr": {
+      "0": {
+        "Total preciptation (mm)": 3.3411111111111107,
+        "Average atmospheric pressure (mB)": 987.1717025305556,
+        "Maximum temperature (\u00b0C)": 29.281944444444445,
+        "Average temperature (\u00b0C)": 23.799867875,
+        "Minimum temperature (\u00b0C)": 20.551388888888887,
+        "Relative humidity (%)": 78.34375734166666,
+        "Average wind speed (m/s)": 1.6847964805555558
+      }
+    },
+    "May": {
+      "0": {
+        "Total preciptation (mm)": 2.061290322580645,
+        "Average atmospheric pressure (mB)": 990.4722278333334,
+        "Maximum temperature (\u00b0C)": 27.206451612903226,
+        "Average temperature (\u00b0C)": 21.438590241935486,
+        "Minimum temperature (\u00b0C)": 17.72231182795699,
+        "Relative humidity (%)": 78.41856458333334,
+        "Average wind speed (m/s)": 1.4331346451612903
+      }
+    },
+    "Jun": {
+      "0": {
+        "Total preciptation (mm)": 0.5583333333333333,
+        "Average atmospheric pressure (mB)": 992.778768527778,
+        "Maximum temperature (\u00b0C)": 27.14972222222222,
+        "Average temperature (\u00b0C)": 20.519422716666664,
+        "Minimum temperature (\u00b0C)": 16.13083333333333,
+        "Relative humidity (%)": 77.31612535555557,
+        "Average wind speed (m/s)": 1.6532480638888891
+      }
+    },
+    "Jul": {
+      "0": {
+        "Total preciptation (mm)": 2.6715053763440864,
+        "Average atmospheric pressure (mB)": 993.2098063736559,
+        "Maximum temperature (\u00b0C)": 26.03951612903226,
+        "Average temperature (\u00b0C)": 20.258592900537636,
+        "Minimum temperature (\u00b0C)": 16.246774193548386,
+        "Relative humidity (%)": 77.42517788172044,
+        "Average wind speed (m/s)": 1.8887665322580647
+      }
+    },
+    "Aug": {
+      "0": {
+        "Total preciptation (mm)": 3.949462365591398,
+        "Average atmospheric pressure (mB)": 990.60188172043,
+        "Maximum temperature (\u00b0C)": 27.377956989247313,
+        "Average temperature (\u00b0C)": 21.59491488172043,
+        "Minimum temperature (\u00b0C)": 17.68763440860215,
+        "Relative humidity (%)": 75.69881931182796,
+        "Average wind speed (m/s)": 1.921886193548387
+      }
+    },
+    "Sep": {
+      "0": {
+        "Total preciptation (mm)": 1.2844444444444443,
+        "Average atmospheric pressure (mB)": 990.136267636111,
+        "Maximum temperature (\u00b0C)": 28.61,
+        "Average temperature (\u00b0C)": 22.849510872222226,
+        "Minimum temperature (\u00b0C)": 18.958333333333336,
+        "Relative humidity (%)": 69.43588280555556,
+        "Average wind speed (m/s)": 2.255308138888889
+      }
+    },
+    "Oct": {
+      "0": {
+        "Total preciptation (mm)": 1.9725806451612904,
+        "Average atmospheric pressure (mB)": 927.2341448252688,
+        "Maximum temperature (\u00b0C)": 28.212365591397845,
+        "Average temperature (\u00b0C)": 22.04760841935484,
+        "Minimum temperature (\u00b0C)": 19.68548387096774,
+        "Relative humidity (%)": 71.03822659139784,
+        "Average wind speed (m/s)": 2.1460885
+      }
+    },
+    "Nov": {
+      "0": {
+        "Total preciptation (mm)": 1.4349999999999998,
+        "Average atmospheric pressure (mB)": 855.1720761805556,
+        "Maximum temperature (\u00b0C)": 28.285277777777782,
+        "Average temperature (\u00b0C)": 21.376235363888885,
+        "Minimum temperature (\u00b0C)": 18.30277777777778,
+        "Relative humidity (%)": 59.873520508333335,
+        "Average wind speed (m/s)": 2.146745808333333
+      }
+    },
+    "Dec": {
+      "0": {
+        "Total preciptation (mm)": 3.0327956989247316,
+        "Average atmospheric pressure (mB)": 746.7735859408602,
+        "Maximum temperature (\u00b0C)": 24.793010752688172,
+        "Average temperature (\u00b0C)": 19.305086551075266,
+        "Minimum temperature (\u00b0C)": 16.706989247311824,
+        "Relative humidity (%)": 54.19206500000001,
+        "Average wind speed (m/s)": 1.8024986693548384
+      }
+    }
+  },
+  "RJ": {
+    "Jan": {
+      "0": {
+        "Total preciptation (mm)": 8.776426799007442,
+        "Average atmospheric pressure (mB)": 982.184747544665,
+        "Maximum temperature (\u00b0C)": 29.650248138957814,
+        "Average temperature (\u00b0C)": 24.144952483870966,
+        "Minimum temperature (\u00b0C)": 20.847642679900748,
+        "Relative humidity (%)": 73.15256488833747,
+        "Average wind speed (m/s)": 1.8034356600496275
+      }
+    },
+    "Feb": {
+      "0": {
+        "Total preciptation (mm)": 6.880219780219781,
+        "Average atmospheric pressure (mB)": 982.6543050178572,
+        "Maximum temperature (\u00b0C)": 31.68997252747253,
+        "Average temperature (\u00b0C)": 25.324848199175825,
+        "Minimum temperature (\u00b0C)": 21.533791208791207,
+        "Relative humidity (%)": 70.36452883516483,
+        "Average wind speed (m/s)": 1.7558822074175824
+      }
+    },
+    "Mar": {
+      "0": {
+        "Total preciptation (mm)": 3.114143920595533,
+        "Average atmospheric pressure (mB)": 984.2486401302729,
+        "Maximum temperature (\u00b0C)": 31.13622828784119,
+        "Average temperature (\u00b0C)": 24.81196384739454,
+        "Minimum temperature (\u00b0C)": 20.7666253101737,
+        "Relative humidity (%)": 68.92469331761787,
+        "Average wind speed (m/s)": 1.6404152034739456
+      }
+    },
+    "Apr": {
+      "0": {
+        "Total preciptation (mm)": 5.045384615384616,
+        "Average atmospheric pressure (mB)": 984.4615339602564,
+        "Maximum temperature (\u00b0C)": 27.50525641025641,
+        "Average temperature (\u00b0C)": 22.41415745128205,
+        "Minimum temperature (\u00b0C)": 19.068717948717946,
+        "Relative humidity (%)": 72.32991698205127,
+        "Average wind speed (m/s)": 1.4669037717948716
+      }
+    },
+    "May": {
+      "0": {
+        "Total preciptation (mm)": 1.5913151364764269,
+        "Average atmospheric pressure (mB)": 974.0462647990074,
+        "Maximum temperature (\u00b0C)": 25.651985111662533,
+        "Average temperature (\u00b0C)": 20.03984817741935,
+        "Minimum temperature (\u00b0C)": 16.319354838709675,
+        "Relative humidity (%)": 72.98006416129031,
+        "Average wind speed (m/s)": 1.3626115818858564
+      }
+    },
+    "Jun": {
+      "0": {
+        "Total preciptation (mm)": 0.8220512820512821,
+        "Average atmospheric pressure (mB)": 986.9380931512821,
+        "Maximum temperature (\u00b0C)": 25.874102564102564,
+        "Average temperature (\u00b0C)": 19.15348702948718,
+        "Minimum temperature (\u00b0C)": 14.704615384615384,
+        "Relative humidity (%)": 72.39934914358975,
+        "Average wind speed (m/s)": 1.4148069051282048
+      }
+    },
+    "Jul": {
+      "0": {
+        "Total preciptation (mm)": 1.5573200992555831,
+        "Average atmospheric pressure (mB)": 986.2168945769231,
+        "Maximum temperature (\u00b0C)": 25.10806451612903,
+        "Average temperature (\u00b0C)": 19.073212393300246,
+        "Minimum temperature (\u00b0C)": 14.984615384615383,
+        "Relative humidity (%)": 71.33722604094292,
+        "Average wind speed (m/s)": 1.641606734491315
+      }
+    },
+    "Aug": {
+      "0": {
+        "Total preciptation (mm)": 2.9292803970223327,
+        "Average atmospheric pressure (mB)": 953.1465641327543,
+        "Maximum temperature (\u00b0C)": 26.55334987593052,
+        "Average temperature (\u00b0C)": 19.781950306451616,
+        "Minimum temperature (\u00b0C)": 15.981389578163771,
+        "Relative humidity (%)": 69.17131415136477,
+        "Average wind speed (m/s)": 1.6291891625310175
+      }
+    },
+    "Sep": {
+      "0": {
+        "Total preciptation (mm)": 1.3815384615384616,
+        "Average atmospheric pressure (mB)": 978.3521955807693,
+        "Maximum temperature (\u00b0C)": 29.255897435897435,
+        "Average temperature (\u00b0C)": 22.577052052564106,
+        "Minimum temperature (\u00b0C)": 18.24397435897436,
+        "Relative humidity (%)": 66.53895319230769,
+        "Average wind speed (m/s)": 1.8459595500000001
+      }
+    },
+    "Oct": {
+      "0": {
+        "Total preciptation (mm)": 5.875186104218362,
+        "Average atmospheric pressure (mB)": 977.4778569205956,
+        "Maximum temperature (\u00b0C)": 27.775558312655086,
+        "Average temperature (\u00b0C)": 22.82488708188586,
+        "Minimum temperature (\u00b0C)": 20.151116625310173,
+        "Relative humidity (%)": 70.41203750744418,
+        "Average wind speed (m/s)": 1.773418234491315
+      }
+    },
+    "Nov": {
+      "0": {
+        "Total preciptation (mm)": 3.5941025641025632,
+        "Average atmospheric pressure (mB)": 951.8112051602565,
+        "Maximum temperature (\u00b0C)": 29.64897435897436,
+        "Average temperature (\u00b0C)": 23.386519557692303,
+        "Minimum temperature (\u00b0C)": 20.078461538461536,
+        "Relative humidity (%)": 67.13420131923077,
+        "Average wind speed (m/s)": 1.6749359897435896
+      }
+    },
+    "Dec": {
+      "0": {
+        "Total preciptation (mm)": 3.7213399503722084,
+        "Average atmospheric pressure (mB)": 975.1338553114144,
+        "Maximum temperature (\u00b0C)": 30.671091811414385,
+        "Average temperature (\u00b0C)": 24.637493736972708,
+        "Minimum temperature (\u00b0C)": 21.098883374689823,
+        "Relative humidity (%)": 71.69129886228288,
+        "Average wind speed (m/s)": 1.7797182990074443
+      }
+    }
+  },
+  "SP": {
+    "Jan": {
+      "0": {
+        "Total preciptation (mm)": 7.156129032258065,
+        "Average atmospheric pressure (mB)": 892.4907784129033,
+        "Maximum temperature (\u00b0C)": 27.576612903225804,
+        "Average temperature (\u00b0C)": 21.496310827419357,
+        "Minimum temperature (\u00b0C)": 18.31935483870968,
+        "Relative humidity (%)": 75.3948449266129,
+        "Average wind speed (m/s)": 1.4120795822580645
+      }
+    },
+    "Feb": {
+      "0": {
+        "Total preciptation (mm)": 7.793392857142857,
+        "Average atmospheric pressure (mB)": 895.4003538392856,
+        "Maximum temperature (\u00b0C)": 28.310357142857146,
+        "Average temperature (\u00b0C)": 21.890103638392855,
+        "Minimum temperature (\u00b0C)": 18.863839285714285,
+        "Relative humidity (%)": 74.38838547053572,
+        "Average wind speed (m/s)": 1.2483639696428572
+      }
+    },
+    "Mar": {
+      "0": {
+        "Total preciptation (mm)": 5.171612903225807,
+        "Average atmospheric pressure (mB)": 890.4615327379033,
+        "Maximum temperature (\u00b0C)": 29.248790322580646,
+        "Average temperature (\u00b0C)": 21.830352529838713,
+        "Minimum temperature (\u00b0C)": 18.401129032258066,
+        "Relative humidity (%)": 71.84831072580646,
+        "Average wind speed (m/s)": 1.117335533064516
+      }
+    },
+    "Apr": {
+      "0": {
+        "Total preciptation (mm)": 3.6421666666666668,
+        "Average atmospheric pressure (mB)": 887.6900175708333,
+        "Maximum temperature (\u00b0C)": 25.930583333333335,
+        "Average temperature (\u00b0C)": 19.814104280833334,
+        "Minimum temperature (\u00b0C)": 16.02625,
+        "Relative humidity (%)": 71.44683671,
+        "Average wind speed (m/s)": 1.1581624633333334
+      }
+    },
+    "May": {
+      "0": {
+        "Total preciptation (mm)": 1.2374193548387098,
+        "Average atmospheric pressure (mB)": 889.408906660484,
+        "Maximum temperature (\u00b0C)": 24.789032258064516,
+        "Average temperature (\u00b0C)": 17.664765741935486,
+        "Minimum temperature (\u00b0C)": 13.188145161290322,
+        "Relative humidity (%)": 65.8065293451613,
+        "Average wind speed (m/s)": 1.0225638782258064
+      }
+    },
+    "Jun": {
+      "0": {
+        "Total preciptation (mm)": 2.0058333333333334,
+        "Average atmospheric pressure (mB)": 918.2959232216666,
+        "Maximum temperature (\u00b0C)": 24.141916666666667,
+        "Average temperature (\u00b0C)": 16.53656101,
+        "Minimum temperature (\u00b0C)": 11.809666666666667,
+        "Relative humidity (%)": 67.6905003375,
+        "Average wind speed (m/s)": 1.0646300275000002
+      }
+    },
+    "Jul": {
+      "0": {
+        "Total preciptation (mm)": 0.547741935483871,
+        "Average atmospheric pressure (mB)": 912.9917412161292,
+        "Maximum temperature (\u00b0C)": 24.99774193548387,
+        "Average temperature (\u00b0C)": 17.30557990806452,
+        "Minimum temperature (\u00b0C)": 12.396129032258063,
+        "Relative humidity (%)": 63.30242187741935,
+        "Average wind speed (m/s)": 1.2709530193548386
+      }
+    },
+    "Aug": {
+      "0": {
+        "Total preciptation (mm)": 1.1750000000000003,
+        "Average atmospheric pressure (mB)": 877.7229181741935,
+        "Maximum temperature (\u00b0C)": 26.633387096774193,
+        "Average temperature (\u00b0C)": 18.625541751612904,
+        "Minimum temperature (\u00b0C)": 13.580725806451614,
+        "Relative humidity (%)": 58.79827471048386,
+        "Average wind speed (m/s)": 1.4404656032258063
+      }
+    },
+    "Sep": {
+      "0": {
+        "Total preciptation (mm)": 1.3461666666666665,
+        "Average atmospheric pressure (mB)": 889.6536765833332,
+        "Maximum temperature (\u00b0C)": 29.96725,
+        "Average temperature (\u00b0C)": 22.103733445833335,
+        "Minimum temperature (\u00b0C)": 16.73241666666667,
+        "Relative humidity (%)": 56.449954967500005,
+        "Average wind speed (m/s)": 1.5776661674999999
+      }
+    },
+    "Oct": {
+      "0": {
+        "Total preciptation (mm)": 5.847096774193548,
+        "Average atmospheric pressure (mB)": 897.6214870540323,
+        "Maximum temperature (\u00b0C)": 28.419758064516127,
+        "Average temperature (\u00b0C)": 21.41068772580645,
+        "Minimum temperature (\u00b0C)": 18.266048387096774,
+        "Relative humidity (%)": 67.65363504677418,
+        "Average wind speed (m/s)": 1.5969598322580645
+      }
+    },
+    "Nov": {
+      "0": {
+        "Total preciptation (mm)": 4.126333333333333,
+        "Average atmospheric pressure (mB)": 930.1668972858333,
+        "Maximum temperature (\u00b0C)": 31.534749999999995,
+        "Average temperature (\u00b0C)": 23.441131015000003,
+        "Minimum temperature (\u00b0C)": 19.254666666666665,
+        "Relative humidity (%)": 64.78954841083332,
+        "Average wind speed (m/s)": 1.5688381858333333
+      }
+    },
+    "Dec": {
+      "0": {
+        "Total preciptation (mm)": 2.763064516129032,
+        "Average atmospheric pressure (mB)": 927.8818495887097,
+        "Maximum temperature (\u00b0C)": 32.041774193548385,
+        "Average temperature (\u00b0C)": 24.136692916129032,
+        "Minimum temperature (\u00b0C)": 19.8341935483871,
+        "Relative humidity (%)": 65.3707841,
+        "Average wind speed (m/s)": 1.4819252967741936
+      }
+    }
+  },
+  "PR": {
+    "Jan": {
+      "0": {
+        "Total preciptation (mm)": 4.38287841191067,
+        "Average atmospheric pressure (mB)": 723.9009585471465,
+        "Maximum temperature (\u00b0C)": 25.74813895781638,
+        "Average temperature (\u00b0C)": 16.861691548387096,
+        "Minimum temperature (\u00b0C)": 14.76377171215881,
+        "Relative humidity (%)": 61.528159901985106,
+        "Average wind speed (m/s)": 1.3494862022332508
+      }
+    },
+    "Feb": {
+      "0": {
+        "Total preciptation (mm)": 5.797802197802198,
+        "Average atmospheric pressure (mB)": 724.7858234258243,
+        "Maximum temperature (\u00b0C)": 24.839010989010994,
+        "Average temperature (\u00b0C)": 16.514626098901097,
+        "Minimum temperature (\u00b0C)": 14.48076923076923,
+        "Relative humidity (%)": 59.607874700549445,
+        "Average wind speed (m/s)": 1.2651238255494506
+      }
+    },
+    "Mar": {
+      "0": {
+        "Total preciptation (mm)": 3.127047146401985,
+        "Average atmospheric pressure (mB)": 719.9258949739452,
+        "Maximum temperature (\u00b0C)": 25.375062034739457,
+        "Average temperature (\u00b0C)": 17.249948646401982,
+        "Minimum temperature (\u00b0C)": 14.664143920595533,
+        "Relative humidity (%)": 53.19386876178659,
+        "Average wind speed (m/s)": 1.2522102518610423
+      }
+    },
+    "Apr": {
+      "0": {
+        "Total preciptation (mm)": 3.1592307692307693,
+        "Average atmospheric pressure (mB)": 694.9551997846155,
+        "Maximum temperature (\u00b0C)": 21.436538461538458,
+        "Average temperature (\u00b0C)": 14.531857676923078,
+        "Minimum temperature (\u00b0C)": 11.547051282051282,
+        "Relative humidity (%)": 53.93554842564102,
+        "Average wind speed (m/s)": 1.2458035871794872
+      }
+    },
+    "May": {
+      "0": {
+        "Total preciptation (mm)": 1.2344913151364767,
+        "Average atmospheric pressure (mB)": 808.6628230719604,
+        "Maximum temperature (\u00b0C)": 21.762903225806454,
+        "Average temperature (\u00b0C)": 15.34430175062035,
+        "Minimum temperature (\u00b0C)": 11.622456575682385,
+        "Relative humidity (%)": 62.44804223697271,
+        "Average wind speed (m/s)": 1.2148490794044666
+      }
+    },
+    "Jun": {
+      "0": {
+        "Total preciptation (mm)": 2.237435897435897,
+        "Average atmospheric pressure (mB)": 775.6272985025641,
+        "Maximum temperature (\u00b0C)": 19.389358974358977,
+        "Average temperature (\u00b0C)": 12.904475792307693,
+        "Minimum temperature (\u00b0C)": 9.564871794871795,
+        "Relative humidity (%)": 60.30206238076923,
+        "Average wind speed (m/s)": 1.3494253679487178
+      }
+    },
+    "Jul": {
+      "0": {
+        "Total preciptation (mm)": 2.1560794044665013,
+        "Average atmospheric pressure (mB)": 794.2297766451612,
+        "Maximum temperature (\u00b0C)": 20.012158808933005,
+        "Average temperature (\u00b0C)": 14.130200210918114,
+        "Minimum temperature (\u00b0C)": 10.800124069478906,
+        "Relative humidity (%)": 60.008894050868484,
+        "Average wind speed (m/s)": 1.5959480980148883
+      }
+    },
+    "Aug": {
+      "0": {
+        "Total preciptation (mm)": 2.2317617866004964,
+        "Average atmospheric pressure (mB)": 791.1782171910671,
+        "Maximum temperature (\u00b0C)": 22.021464019851116,
+        "Average temperature (\u00b0C)": 15.158933280397024,
+        "Minimum temperature (\u00b0C)": 11.159801488833748,
+        "Relative humidity (%)": 56.01034613027295,
+        "Average wind speed (m/s)": 1.6543852320099255
+      }
+    },
+    "Sep": {
+      "0": {
+        "Total preciptation (mm)": 3.1379487179487175,
+        "Average atmospheric pressure (mB)": 813.183671698718,
+        "Maximum temperature (\u00b0C)": 25.791025641025637,
+        "Average temperature (\u00b0C)": 18.48506423974359,
+        "Minimum temperature (\u00b0C)": 14.33871794871795,
+        "Relative humidity (%)": 55.62382611666666,
+        "Average wind speed (m/s)": 1.98145865
+      }
+    },
+    "Oct": {
+      "0": {
+        "Total preciptation (mm)": 9.44937965260546,
+        "Average atmospheric pressure (mB)": 754.3981866228288,
+        "Maximum temperature (\u00b0C)": 22.746029776674938,
+        "Average temperature (\u00b0C)": 16.930426612903226,
+        "Minimum temperature (\u00b0C)": 14.124689826302728,
+        "Relative humidity (%)": 55.60715672828784,
+        "Average wind speed (m/s)": 1.8508747617866006
+      }
+    },
+    "Nov": {
+      "0": {
+        "Total preciptation (mm)": 5.455897435897437,
+        "Average atmospheric pressure (mB)": 751.450781594872,
+        "Maximum temperature (\u00b0C)": 22.87282051282051,
+        "Average temperature (\u00b0C)": 17.92994028974359,
+        "Minimum temperature (\u00b0C)": 14.646666666666665,
+        "Relative humidity (%)": 57.23396757948717,
+        "Average wind speed (m/s)": 1.763985614102564
+      }
+    },
+    "Dec": {
+      "0": {
+        "Total preciptation (mm)": 3.546401985111663,
+        "Average atmospheric pressure (mB)": 744.3136659987592,
+        "Maximum temperature (\u00b0C)": 24.272704714640195,
+        "Average temperature (\u00b0C)": 18.948690409429283,
+        "Minimum temperature (\u00b0C)": 15.405707196029775,
+        "Relative humidity (%)": 57.72183967741936,
+        "Average wind speed (m/s)": 1.4402737791563278
+      }
+    }
+  },
+  "SC": {
+    "Jan": {
+      "0": {
+        "Total preciptation (mm)": 6.080645161290323,
+        "Average atmospheric pressure (mB)": 924.0150716706988,
+        "Maximum temperature (\u00b0C)": 27.738306451612903,
+        "Average temperature (\u00b0C)": 21.41658659677419,
+        "Minimum temperature (\u00b0C)": 17.546505376344086,
+        "Relative humidity (%)": 70.84303705645162,
+        "Average wind speed (m/s)": 1.8991570107526883
+      }
+    },
+    "Feb": {
+      "0": {
+        "Total preciptation (mm)": 6.641964285714285,
+        "Average atmospheric pressure (mB)": 901.4324058824404,
+        "Maximum temperature (\u00b0C)": 26.866220238095238,
+        "Average temperature (\u00b0C)": 20.24323450892857,
+        "Minimum temperature (\u00b0C)": 16.807589285714286,
+        "Relative humidity (%)": 72.40876777083334,
+        "Average wind speed (m/s)": 1.7074829166666667
+      }
+    },
+    "Mar": {
+      "0": {
+        "Total preciptation (mm)": 5.571774193548387,
+        "Average atmospheric pressure (mB)": 903.1325187688171,
+        "Maximum temperature (\u00b0C)": 27.485483870967744,
+        "Average temperature (\u00b0C)": 20.626570384408605,
+        "Minimum temperature (\u00b0C)": 17.416666666666668,
+        "Relative humidity (%)": 73.29661449193547,
+        "Average wind speed (m/s)": 1.786534686827957
+      }
+    },
+    "Apr": {
+      "0": {
+        "Total preciptation (mm)": 4.189444444444445,
+        "Average atmospheric pressure (mB)": 877.108222925,
+        "Maximum temperature (\u00b0C)": 23.13597222222222,
+        "Average temperature (\u00b0C)": 16.48123025138889,
+        "Minimum temperature (\u00b0C)": 13.517777777777779,
+        "Relative humidity (%)": 71.08123187638888,
+        "Average wind speed (m/s)": 1.8643954680555552
+      }
+    },
+    "May": {
+      "0": {
+        "Total preciptation (mm)": 2.8255376344086023,
+        "Average atmospheric pressure (mB)": 876.0157637916667,
+        "Maximum temperature (\u00b0C)": 21.512903225806454,
+        "Average temperature (\u00b0C)": 14.917626471774193,
+        "Minimum temperature (\u00b0C)": 12.0872311827957,
+        "Relative humidity (%)": 68.64758232930107,
+        "Average wind speed (m/s)": 1.8478135994623655
+      }
+    },
+    "Jun": {
+      "0": {
+        "Total preciptation (mm)": 4.1194444444444445,
+        "Average atmospheric pressure (mB)": 883.4373912305556,
+        "Maximum temperature (\u00b0C)": 19.69666666666667,
+        "Average temperature (\u00b0C)": 13.412412272222221,
+        "Minimum temperature (\u00b0C)": 10.085277777777778,
+        "Relative humidity (%)": 69.67413439027779,
+        "Average wind speed (m/s)": 2.1076951499999996
+      }
+    },
+    "Jul": {
+      "0": {
+        "Total preciptation (mm)": 4.97983870967742,
+        "Average atmospheric pressure (mB)": 920.9131614919355,
+        "Maximum temperature (\u00b0C)": 19.176478494623655,
+        "Average temperature (\u00b0C)": 14.128828314516127,
+        "Minimum temperature (\u00b0C)": 11.113440860215055,
+        "Relative humidity (%)": 75.07459541532258,
+        "Average wind speed (m/s)": 2.2305525309139784
+      }
+    },
+    "Aug": {
+      "0": {
+        "Total preciptation (mm)": 3.2161290322580647,
+        "Average atmospheric pressure (mB)": 903.4887899180108,
+        "Maximum temperature (\u00b0C)": 21.024327956989247,
+        "Average temperature (\u00b0C)": 15.098917934139786,
+        "Minimum temperature (\u00b0C)": 11.1369623655914,
+        "Relative humidity (%)": 68.91200874731182,
+        "Average wind speed (m/s)": 2.299600731182796
+      }
+    },
+    "Sep": {
+      "0": {
+        "Total preciptation (mm)": 6.043333333333333,
+        "Average atmospheric pressure (mB)": 887.164602838889,
+        "Maximum temperature (\u00b0C)": 22.733888888888888,
+        "Average temperature (\u00b0C)": 17.331476465277778,
+        "Minimum temperature (\u00b0C)": 14.060555555555558,
+        "Relative humidity (%)": 69.07869443888889,
+        "Average wind speed (m/s)": 2.8169399069444445
+      }
+    },
+    "Oct": {
+      "0": {
+        "Total preciptation (mm)": 12.21989247311828,
+        "Average atmospheric pressure (mB)": 748.404522407258,
+        "Maximum temperature (\u00b0C)": 18.67284946236559,
+        "Average temperature (\u00b0C)": 14.004620907258065,
+        "Minimum temperature (\u00b0C)": 12.341801075268817,
+        "Relative humidity (%)": 64.49189722580645,
+        "Average wind speed (m/s)": 2.2682240940860217
+      }
+    },
+    "Nov": {
+      "0": {
+        "Total preciptation (mm)": 9.979722222222222,
+        "Average atmospheric pressure (mB)": 812.7820109472223,
+        "Maximum temperature (\u00b0C)": 22.209027777777777,
+        "Average temperature (\u00b0C)": 16.981144894444444,
+        "Minimum temperature (\u00b0C)": 14.619583333333333,
+        "Relative humidity (%)": 63.17559345972222,
+        "Average wind speed (m/s)": 2.494792715277778
+      }
+    },
+    "Dec": {
+      "0": {
+        "Total preciptation (mm)": 4.118279569892473,
+        "Average atmospheric pressure (mB)": 875.7172608145162,
+        "Maximum temperature (\u00b0C)": 25.438844086021504,
+        "Average temperature (\u00b0C)": 19.422010961021503,
+        "Minimum temperature (\u00b0C)": 16.970161290322583,
+        "Relative humidity (%)": 65.07572538978495,
+        "Average wind speed (m/s)": 2.309046489247312
+      }
+    }
+  },
+  "RS": {
+    "Jan": {
+      "0": {
+        "Total preciptation (mm)": 2.1119713261648743,
+        "Average atmospheric pressure (mB)": 920.7861406681003,
+        "Maximum temperature (\u00b0C)": 30.968028673835125,
+        "Average temperature (\u00b0C)": 22.99634751469534,
+        "Minimum temperature (\u00b0C)": 18.255125448028675,
+        "Relative humidity (%)": 62.40147650609319,
+        "Average wind speed (m/s)": 2.2424025340501794
+      }
+    },
+    "Feb": {
+      "0": {
+        "Total preciptation (mm)": 3.1017460317460315,
+        "Average atmospheric pressure (mB)": 933.4461008690477,
+        "Maximum temperature (\u00b0C)": 29.349761904761902,
+        "Average temperature (\u00b0C)": 21.981316357936507,
+        "Minimum temperature (\u00b0C)": 17.34047619047619,
+        "Relative humidity (%)": 65.47499177698414,
+        "Average wind speed (m/s)": 2.164777226190476
+      }
+    },
+    "Mar": {
+      "0": {
+        "Total preciptation (mm)": 3.6553405017921143,
+        "Average atmospheric pressure (mB)": 934.4729873512545,
+        "Maximum temperature (\u00b0C)": 29.31405017921147,
+        "Average temperature (\u00b0C)": 22.324851288172045,
+        "Minimum temperature (\u00b0C)": 18.827526881720434,
+        "Relative humidity (%)": 73.05713999713262,
+        "Average wind speed (m/s)": 2.1065580021505372
+      }
+    },
+    "Apr": {
+      "0": {
+        "Total preciptation (mm)": 1.5706666666666669,
+        "Average atmospheric pressure (mB)": 926.2523786466666,
+        "Maximum temperature (\u00b0C)": 23.80503703703703,
+        "Average temperature (\u00b0C)": 17.54091837925926,
+        "Minimum temperature (\u00b0C)": 13.384518518518512,
+        "Relative humidity (%)": 71.9532908325926,
+        "Average wind speed (m/s)": 1.9490825503703701
+      }
+    },
+    "May": {
+      "0": {
+        "Total preciptation (mm)": 4.549820788530466,
+        "Average atmospheric pressure (mB)": 881.7526451218637,
+        "Maximum temperature (\u00b0C)": 20.624014336917565,
+        "Average temperature (\u00b0C)": 14.826369477419355,
+        "Minimum temperature (\u00b0C)": 11.628172043010752,
+        "Relative humidity (%)": 72.36451278351255,
+        "Average wind speed (m/s)": 1.5614066487455198
+      }
+    },
+    "Jun": {
+      "0": {
+        "Total preciptation (mm)": 3.70637037037037,
+        "Average atmospheric pressure (mB)": 865.4499815214814,
+        "Maximum temperature (\u00b0C)": 18.22740740740741,
+        "Average temperature (\u00b0C)": 12.893893767407409,
+        "Minimum temperature (\u00b0C)": 9.517111111111111,
+        "Relative humidity (%)": 71.9561968311111,
+        "Average wind speed (m/s)": 1.7053173318518515
+      }
+    },
+    "Jul": {
+      "0": {
+        "Total preciptation (mm)": 4.881290322580645,
+        "Average atmospheric pressure (mB)": 858.2644128716844,
+        "Maximum temperature (\u00b0C)": 17.21096774193548,
+        "Average temperature (\u00b0C)": 12.214600374910397,
+        "Minimum temperature (\u00b0C)": 9.080860215053765,
+        "Relative humidity (%)": 73.06395880931899,
+        "Average wind speed (m/s)": 1.9764686508960576
+      }
+    },
+    "Aug": {
+      "0": {
+        "Total preciptation (mm)": 2.3135483870967746,
+        "Average atmospheric pressure (mB)": 956.7266147964156,
+        "Maximum temperature (\u00b0C)": 21.667025089605733,
+        "Average temperature (\u00b0C)": 15.054324097491039,
+        "Minimum temperature (\u00b0C)": 10.329247311827956,
+        "Relative humidity (%)": 72.75782230465948,
+        "Average wind speed (m/s)": 2.219668030107527
+      }
+    },
+    "Sep": {
+      "0": {
+        "Total preciptation (mm)": 12.82725925925926,
+        "Average atmospheric pressure (mB)": 947.3070117385187,
+        "Maximum temperature (\u00b0C)": 21.850074074074072,
+        "Average temperature (\u00b0C)": 16.730581977777778,
+        "Minimum temperature (\u00b0C)": 13.33148148148148,
+        "Relative humidity (%)": 77.69074622296297,
+        "Average wind speed (m/s)": 2.8735668837037034
+      }
+    },
+    "Oct": {
+      "0": {
+        "Total preciptation (mm)": 7.939641577060931,
+        "Average atmospheric pressure (mB)": 963.4247448681004,
+        "Maximum temperature (\u00b0C)": 22.687526881720427,
+        "Average temperature (\u00b0C)": 17.462111073835125,
+        "Minimum temperature (\u00b0C)": 13.672974910394267,
+        "Relative humidity (%)": 77.00351908172043,
+        "Average wind speed (m/s)": 2.679620678136201
+      }
+    },
+    "Nov": {
+      "0": {
+        "Total preciptation (mm)": 9.518666666666668,
+        "Average atmospheric pressure (mB)": 935.7811978274075,
+        "Maximum temperature (\u00b0C)": 24.96644444444444,
+        "Average temperature (\u00b0C)": 19.415863264444443,
+        "Minimum temperature (\u00b0C)": 15.936148148148146,
+        "Relative humidity (%)": 71.15169939777778,
+        "Average wind speed (m/s)": 2.776322708888889
+      }
+    },
+    "Dec": {
+      "0": {
+        "Total preciptation (mm)": 5.515698924731184,
+        "Average atmospheric pressure (mB)": 937.2374801555554,
+        "Maximum temperature (\u00b0C)": 27.35240143369176,
+        "Average temperature (\u00b0C)": 21.603724341935486,
+        "Minimum temperature (\u00b0C)": 17.83426523297491,
+        "Relative humidity (%)": 71.5433742795699,
+        "Average wind speed (m/s)": 2.8021053211469535
+      }
+    }
+  },
+  "MS": {
+    "Jan": {
+      "0": {
+        "Total preciptation (mm)": 5.471684587813621,
+        "Average atmospheric pressure (mB)": 786.676846869773,
+        "Maximum temperature (\u00b0C)": 27.80657108721625,
+        "Average temperature (\u00b0C)": 21.37869310633214,
+        "Minimum temperature (\u00b0C)": 18.01242532855436,
+        "Relative humidity (%)": 66.41226716129033,
+        "Average wind speed (m/s)": 1.4106414456391876
+      }
+    },
+    "Feb": {
+      "0": {
+        "Total preciptation (mm)": 7.225925925925925,
+        "Average atmospheric pressure (mB)": 812.8283150211639,
+        "Maximum temperature (\u00b0C)": 28.14589947089947,
+        "Average temperature (\u00b0C)": 21.41485148015873,
+        "Minimum temperature (\u00b0C)": 18.14510582010582,
+        "Relative humidity (%)": 69.041775505291,
+        "Average wind speed (m/s)": 1.3270246375661374
+      }
+    },
+    "Mar": {
+      "0": {
+        "Total preciptation (mm)": 4.968458781362006,
+        "Average atmospheric pressure (mB)": 819.0955345292713,
+        "Maximum temperature (\u00b0C)": 28.56224611708483,
+        "Average temperature (\u00b0C)": 21.68849215292712,
+        "Minimum temperature (\u00b0C)": 18.387933094384707,
+        "Relative humidity (%)": 66.59386840860216,
+        "Average wind speed (m/s)": 1.254010089605735
+      }
+    },
+    "Apr": {
+      "0": {
+        "Total preciptation (mm)": 4.607654320987654,
+        "Average atmospheric pressure (mB)": 903.0240048814815,
+        "Maximum temperature (\u00b0C)": 28.542222222222225,
+        "Average temperature (\u00b0C)": 22.580858567901235,
+        "Minimum temperature (\u00b0C)": 18.45123456790123,
+        "Relative humidity (%)": 71.60130142962963,
+        "Average wind speed (m/s)": 1.2620987740740741
+      }
+    },
+    "May": {
+      "0": {
+        "Total preciptation (mm)": 1.8458781362007168,
+        "Average atmospheric pressure (mB)": 885.1522815376344,
+        "Maximum temperature (\u00b0C)": 26.455077658303463,
+        "Average temperature (\u00b0C)": 20.05317493548387,
+        "Minimum temperature (\u00b0C)": 15.315770609318996,
+        "Relative humidity (%)": 66.23744669892473,
+        "Average wind speed (m/s)": 1.2444936463560334
+      }
+    },
+    "Jun": {
+      "0": {
+        "Total preciptation (mm)": 1.6822222222222223,
+        "Average atmospheric pressure (mB)": 869.5362281580246,
+        "Maximum temperature (\u00b0C)": 24.398148148148152,
+        "Average temperature (\u00b0C)": 17.47710459012346,
+        "Minimum temperature (\u00b0C)": 12.388395061728396,
+        "Relative humidity (%)": 65.42485726049384,
+        "Average wind speed (m/s)": 1.242252311111111
+      }
+    },
+    "Jul": {
+      "0": {
+        "Total preciptation (mm)": 0.36009557945041815,
+        "Average atmospheric pressure (mB)": 864.1455113488649,
+        "Maximum temperature (\u00b0C)": 26.8273596176822,
+        "Average temperature (\u00b0C)": 19.62640434408602,
+        "Minimum temperature (\u00b0C)": 14.143130227001192,
+        "Relative humidity (%)": 59.477613130227006,
+        "Average wind speed (m/s)": 1.502809101553166
+      }
+    },
+    "Aug": {
+      "0": {
+        "Total preciptation (mm)": 1.2150537634408602,
+        "Average atmospheric pressure (mB)": 866.2768401636796,
+        "Maximum temperature (\u00b0C)": 29.435483870967747,
+        "Average temperature (\u00b0C)": 22.161075826762247,
+        "Minimum temperature (\u00b0C)": 16.356272401433692,
+        "Relative humidity (%)": 56.219095939068104,
+        "Average wind speed (m/s)": 1.6716341624850657
+      }
+    },
+    "Sep": {
+      "0": {
+        "Total preciptation (mm)": 1.885679012345679,
+        "Average atmospheric pressure (mB)": 846.4679680024693,
+        "Maximum temperature (\u00b0C)": 31.60086419753086,
+        "Average temperature (\u00b0C)": 23.848866481481483,
+        "Minimum temperature (\u00b0C)": 18.75283950617284,
+        "Relative humidity (%)": 54.459859996296295,
+        "Average wind speed (m/s)": 1.8013517938271606
+      }
+    },
+    "Oct": {
+      "0": {
+        "Total preciptation (mm)": 3.5801672640382316,
+        "Average atmospheric pressure (mB)": 828.3267712962964,
+        "Maximum temperature (\u00b0C)": 32.58912783751493,
+        "Average temperature (\u00b0C)": 24.143173272401434,
+        "Minimum temperature (\u00b0C)": 20.16583034647551,
+        "Relative humidity (%)": 57.615840892473116,
+        "Average wind speed (m/s)": 1.8872179163679812
+      }
+    },
+    "Nov": {
+      "0": {
+        "Total preciptation (mm)": 3.7646913580246912,
+        "Average atmospheric pressure (mB)": 923.0365901975308,
+        "Maximum temperature (\u00b0C)": 34.60641975308642,
+        "Average temperature (\u00b0C)": 26.465362453086417,
+        "Minimum temperature (\u00b0C)": 22.37691358024691,
+        "Relative humidity (%)": 61.23872451604938,
+        "Average wind speed (m/s)": 2.1430861802469137
+      }
+    },
+    "Dec": {
+      "0": {
+        "Total preciptation (mm)": 4.0367980884109915,
+        "Average atmospheric pressure (mB)": 929.7791056033452,
+        "Maximum temperature (\u00b0C)": 34.61600955794505,
+        "Average temperature (\u00b0C)": 26.35752897610514,
+        "Minimum temperature (\u00b0C)": 22.87598566308243,
+        "Relative humidity (%)": 68.01681128554361,
+        "Average wind speed (m/s)": 1.6209995161290323
+      }
+    }
+  },
+  "MT": {
+    "Jan": {
+      "0": {
+        "Total preciptation (mm)": 7.028183361629881,
+        "Average atmospheric pressure (mB)": 849.0347830696094,
+        "Maximum temperature (\u00b0C)": 26.1839558573854,
+        "Average temperature (\u00b0C)": 19.04990256876061,
+        "Minimum temperature (\u00b0C)": 18.343293718166382,
+        "Relative humidity (%)": 69.50892562224108,
+        "Average wind speed (m/s)": 1.301512600169779
+      }
+    },
+    "Feb": {
+      "0": {
+        "Total preciptation (mm)": 4.929699248120301,
+        "Average atmospheric pressure (mB)": 817.8491440009399,
+        "Maximum temperature (\u00b0C)": 27.284680451127816,
+        "Average temperature (\u00b0C)": 18.759659240601508,
+        "Minimum temperature (\u00b0C)": 18.071898496240603,
+        "Relative humidity (%)": 67.76937523590226,
+        "Average wind speed (m/s)": 1.1141741757518795
+      }
+    },
+    "Mar": {
+      "0": {
+        "Total preciptation (mm)": 4.572835314091681,
+        "Average atmospheric pressure (mB)": 760.174701377759,
+        "Maximum temperature (\u00b0C)": 25.829202037351443,
+        "Average temperature (\u00b0C)": 18.276521295415957,
+        "Minimum temperature (\u00b0C)": 16.892105263157898,
+        "Relative humidity (%)": 65.17072579032258,
+        "Average wind speed (m/s)": 1.0286553361629884
+      }
+    },
+    "Apr": {
+      "0": {
+        "Total preciptation (mm)": 2.972631578947369,
+        "Average atmospheric pressure (mB)": 775.1945805315789,
+        "Maximum temperature (\u00b0C)": 25.820789473684215,
+        "Average temperature (\u00b0C)": 19.950917889473686,
+        "Minimum temperature (\u00b0C)": 17.083157894736843,
+        "Relative humidity (%)": 64.90860525789473,
+        "Average wind speed (m/s)": 0.8956944666666667
+      }
+    },
+    "May": {
+      "0": {
+        "Total preciptation (mm)": 0.468760611205433,
+        "Average atmospheric pressure (mB)": 781.7616636621391,
+        "Maximum temperature (\u00b0C)": 25.984550084889644,
+        "Average temperature (\u00b0C)": 19.93187915959253,
+        "Minimum temperature (\u00b0C)": 15.86578947368421,
+        "Relative humidity (%)": 59.01224574617997,
+        "Average wind speed (m/s)": 0.9632142351443123
+      }
+    },
+    "Jun": {
+      "0": {
+        "Total preciptation (mm)": 0.36736842105263157,
+        "Average atmospheric pressure (mB)": 852.3610422850876,
+        "Maximum temperature (\u00b0C)": 27.63912280701755,
+        "Average temperature (\u00b0C)": 20.04245010877193,
+        "Minimum temperature (\u00b0C)": 14.74719298245614,
+        "Relative humidity (%)": 59.8618768745614,
+        "Average wind speed (m/s)": 1.2001988035087718
+      }
+    },
+    "Jul": {
+      "0": {
+        "Total preciptation (mm)": 0.015959252971137518,
+        "Average atmospheric pressure (mB)": 822.0669960025468,
+        "Maximum temperature (\u00b0C)": 28.848132427843804,
+        "Average temperature (\u00b0C)": 20.581274285229206,
+        "Minimum temperature (\u00b0C)": 14.077589134125635,
+        "Relative humidity (%)": 47.73190133446519,
+        "Average wind speed (m/s)": 1.1656327529711377
+      }
+    },
+    "Aug": {
+      "0": {
+        "Total preciptation (mm)": 0.43820033955857385,
+        "Average atmospheric pressure (mB)": 802.208857885399,
+        "Maximum temperature (\u00b0C)": 29.691680814940582,
+        "Average temperature (\u00b0C)": 22.218679418505943,
+        "Minimum temperature (\u00b0C)": 16.428947368421053,
+        "Relative humidity (%)": 44.516933342954154,
+        "Average wind speed (m/s)": 1.2305905899830225
+      }
+    },
+    "Sep": {
+      "0": {
+        "Total preciptation (mm)": 1.2896491228070177,
+        "Average atmospheric pressure (mB)": 792.8578619350877,
+        "Maximum temperature (\u00b0C)": 29.945964912280697,
+        "Average temperature (\u00b0C)": 22.866555958771936,
+        "Minimum temperature (\u00b0C)": 18.222280701754386,
+        "Relative humidity (%)": 49.821064928947365,
+        "Average wind speed (m/s)": 1.2908778736842101
+      }
+    },
+    "Oct": {
+      "0": {
+        "Total preciptation (mm)": 1.772835314091681,
+        "Average atmospheric pressure (mB)": 804.156031597623,
+        "Maximum temperature (\u00b0C)": 30.24966044142614,
+        "Average temperature (\u00b0C)": 22.36674070288625,
+        "Minimum temperature (\u00b0C)": 19.150169779286927,
+        "Relative humidity (%)": 54.95561563497453,
+        "Average wind speed (m/s)": 1.3441448157894738
+      }
+    },
+    "Nov": {
+      "0": {
+        "Total preciptation (mm)": 2.4570175438596493,
+        "Average atmospheric pressure (mB)": 842.7755082043859,
+        "Maximum temperature (\u00b0C)": 30.464035087719296,
+        "Average temperature (\u00b0C)": 23.053675202631577,
+        "Minimum temperature (\u00b0C)": 19.893771929824563,
+        "Relative humidity (%)": 59.371470326315794,
+        "Average wind speed (m/s)": 1.3963322587719298
+      }
+    },
+    "Dec": {
+      "0": {
+        "Total preciptation (mm)": 3.4707979626485574,
+        "Average atmospheric pressure (mB)": 869.2952849490662,
+        "Maximum temperature (\u00b0C)": 30.217826825127332,
+        "Average temperature (\u00b0C)": 22.021590410016973,
+        "Minimum temperature (\u00b0C)": 20.300764006791173,
+        "Relative humidity (%)": 64.56292932512733,
+        "Average wind speed (m/s)": 1.2953208293718166
+      }
+    }
+  },
+  "GO": {
+    "Jan": {
+      "0": {
+        "Total preciptation (mm)": 6.060794044665012,
+        "Average atmospheric pressure (mB)": 795.673351349876,
+        "Maximum temperature (\u00b0C)": 26.54813895781638,
+        "Average temperature (\u00b0C)": 17.194721632754344,
+        "Minimum temperature (\u00b0C)": 16.983126550868487,
+        "Relative humidity (%)": 69.69398989578164,
+        "Average wind speed (m/s)": 1.2567762059553351
+      }
+    },
+    "Feb": {
+      "0": {
+        "Total preciptation (mm)": 3.785164835164835,
+        "Average atmospheric pressure (mB)": 781.394860982143,
+        "Maximum temperature (\u00b0C)": 28.612912087912086,
+        "Average temperature (\u00b0C)": 18.265085811813186,
+        "Minimum temperature (\u00b0C)": 17.037087912087912,
+        "Relative humidity (%)": 65.68799661813188,
+        "Average wind speed (m/s)": 1.0627608241758242
+      }
+    },
+    "Mar": {
+      "0": {
+        "Total preciptation (mm)": 3.653101736972705,
+        "Average atmospheric pressure (mB)": 807.3784773076922,
+        "Maximum temperature (\u00b0C)": 27.673697270471465,
+        "Average temperature (\u00b0C)": 19.02708122208437,
+        "Minimum temperature (\u00b0C)": 17.102481389578163,
+        "Relative humidity (%)": 66.61682705707196,
+        "Average wind speed (m/s)": 1.0861897952853599
+      }
+    },
+    "Apr": {
+      "0": {
+        "Total preciptation (mm)": 2.5338461538461536,
+        "Average atmospheric pressure (mB)": 824.2263684166666,
+        "Maximum temperature (\u00b0C)": 27.591923076923077,
+        "Average temperature (\u00b0C)": 20.734378247435895,
+        "Minimum temperature (\u00b0C)": 17.112051282051283,
+        "Relative humidity (%)": 67.99180571025641,
+        "Average wind speed (m/s)": 1.084723132051282
+      }
+    },
+    "May": {
+      "0": {
+        "Total preciptation (mm)": 0.1334987593052109,
+        "Average atmospheric pressure (mB)": 784.0233313250621,
+        "Maximum temperature (\u00b0C)": 28.00620347394541,
+        "Average temperature (\u00b0C)": 18.461024990074442,
+        "Minimum temperature (\u00b0C)": 13.664392059553352,
+        "Relative humidity (%)": 55.9382988337469,
+        "Average wind speed (m/s)": 0.9051696191066999
+      }
+    },
+    "Jun": {
+      "0": {
+        "Total preciptation (mm)": 0.15743589743589742,
+        "Average atmospheric pressure (mB)": 800.6814809730769,
+        "Maximum temperature (\u00b0C)": 28.55807692307692,
+        "Average temperature (\u00b0C)": 17.990369248717947,
+        "Minimum temperature (\u00b0C)": 12.988717948717948,
+        "Relative humidity (%)": 54.355459056410254,
+        "Average wind speed (m/s)": 0.9930001076923076
+      }
+    },
+    "Jul": {
+      "0": {
+        "Total preciptation (mm)": 0.027543424317617863,
+        "Average atmospheric pressure (mB)": 755.0260668883374,
+        "Maximum temperature (\u00b0C)": 26.870843672456576,
+        "Average temperature (\u00b0C)": 16.73292739081886,
+        "Minimum temperature (\u00b0C)": 11.591439205955336,
+        "Relative humidity (%)": 42.594106413151366,
+        "Average wind speed (m/s)": 1.1509123399503722
+      }
+    },
+    "Aug": {
+      "0": {
+        "Total preciptation (mm)": 0.3377171215880893,
+        "Average atmospheric pressure (mB)": 721.8515952009927,
+        "Maximum temperature (\u00b0C)": 27.716253101736974,
+        "Average temperature (\u00b0C)": 18.270144348635238,
+        "Minimum temperature (\u00b0C)": 13.436476426799011,
+        "Relative humidity (%)": 40.00520094789082,
+        "Average wind speed (m/s)": 1.2543959094292805
+      }
+    },
+    "Sep": {
+      "0": {
+        "Total preciptation (mm)": 0.6151282051282051,
+        "Average atmospheric pressure (mB)": 710.3961186192307,
+        "Maximum temperature (\u00b0C)": 29.47102564102564,
+        "Average temperature (\u00b0C)": 19.911138044871795,
+        "Minimum temperature (\u00b0C)": 15.847948717948716,
+        "Relative humidity (%)": 40.59482254871795,
+        "Average wind speed (m/s)": 1.3935023128205128
+      }
+    },
+    "Oct": {
+      "0": {
+        "Total preciptation (mm)": 1.702233250620347,
+        "Average atmospheric pressure (mB)": 843.4109807766749,
+        "Maximum temperature (\u00b0C)": 30.996898263027294,
+        "Average temperature (\u00b0C)": 20.409174967741933,
+        "Minimum temperature (\u00b0C)": 19.010669975186104,
+        "Relative humidity (%)": 55.69377207568239,
+        "Average wind speed (m/s)": 1.4254981302729528
+      }
+    },
+    "Nov": {
+      "0": {
+        "Total preciptation (mm)": 2.9494871794871793,
+        "Average atmospheric pressure (mB)": 883.7188160448718,
+        "Maximum temperature (\u00b0C)": 31.390384615384615,
+        "Average temperature (\u00b0C)": 20.618966708974355,
+        "Minimum temperature (\u00b0C)": 19.667051282051283,
+        "Relative humidity (%)": 60.59902040256411,
+        "Average wind speed (m/s)": 1.508985985897436
+      }
+    },
+    "Dec": {
+      "0": {
+        "Total preciptation (mm)": 3.597518610421836,
+        "Average atmospheric pressure (mB)": 827.5766608511166,
+        "Maximum temperature (\u00b0C)": 28.40198511166253,
+        "Average temperature (\u00b0C)": 17.999352120347393,
+        "Minimum temperature (\u00b0C)": 18.336600496277917,
+        "Relative humidity (%)": 61.57749455210919,
+        "Average wind speed (m/s)": 1.3561820558312654
+      }
+    }
+  },
+  "DF": {
+    "Jan": {
+      "0": {
+        "Total preciptation (mm)": 5.36,
+        "Average atmospheric pressure (mB)": 889.271566232258,
+        "Maximum temperature (\u00b0C)": 27.314838709677424,
+        "Average temperature (\u00b0C)": 19.482469483870965,
+        "Minimum temperature (\u00b0C)": 17.5058064516129,
+        "Relative humidity (%)": 79.91406547096774,
+        "Average wind speed (m/s)": 1.763622129032258
+      }
+    },
+    "Feb": {
+      "0": {
+        "Total preciptation (mm)": 2.9957142857142856,
+        "Average atmospheric pressure (mB)": 895.491480707143,
+        "Maximum temperature (\u00b0C)": 29.27857142857143,
+        "Average temperature (\u00b0C)": 19.84140492857143,
+        "Minimum temperature (\u00b0C)": 17.75857142857143,
+        "Relative humidity (%)": 71.71983745,
+        "Average wind speed (m/s)": 1.819498892857143
+      }
+    },
+    "Mar": {
+      "0": {
+        "Total preciptation (mm)": 3.9780645161290322,
+        "Average atmospheric pressure (mB)": 895.8776175354839,
+        "Maximum temperature (\u00b0C)": 27.952258064516126,
+        "Average temperature (\u00b0C)": 18.566588251612902,
+        "Minimum temperature (\u00b0C)": 17.306451612903228,
+        "Relative humidity (%)": 74.5792915096774,
+        "Average wind speed (m/s)": 1.8605640838709678
+      }
+    },
+    "Apr": {
+      "0": {
+        "Total preciptation (mm)": 4.613333333333333,
+        "Average atmospheric pressure (mB)": 895.5790067933334,
+        "Maximum temperature (\u00b0C)": 27.711333333333336,
+        "Average temperature (\u00b0C)": 21.422000646666667,
+        "Minimum temperature (\u00b0C)": 17.32,
+        "Relative humidity (%)": 77.79770974666667,
+        "Average wind speed (m/s)": 1.92625678
+      }
+    },
+    "May": {
+      "0": {
+        "Total preciptation (mm)": 0.31483870967741934,
+        "Average atmospheric pressure (mB)": 856.8214464129032,
+        "Maximum temperature (\u00b0C)": 27.472903225806455,
+        "Average temperature (\u00b0C)": 19.294835206451612,
+        "Minimum temperature (\u00b0C)": 14.09032258064516,
+        "Relative humidity (%)": 63.204070709677424,
+        "Average wind speed (m/s)": 1.8592692516129035
+      }
+    },
+    "Jun": {
+      "0": {
+        "Total preciptation (mm)": 0.144,
+        "Average atmospheric pressure (mB)": 899.05086106,
+        "Maximum temperature (\u00b0C)": 26.556,
+        "Average temperature (\u00b0C)": 19.708777746666666,
+        "Minimum temperature (\u00b0C)": 13.87866666666667,
+        "Relative humidity (%)": 61.50361112666667,
+        "Average wind speed (m/s)": 2.12370774
+      }
+    },
+    "Jul": {
+      "0": {
+        "Total preciptation (mm)": 0.0,
+        "Average atmospheric pressure (mB)": 899.1664948709677,
+        "Maximum temperature (\u00b0C)": 27.406451612903226,
+        "Average temperature (\u00b0C)": 20.182730251612906,
+        "Minimum temperature (\u00b0C)": 13.852903225806452,
+        "Relative humidity (%)": 52.43315803870969,
+        "Average wind speed (m/s)": 2.3328576258064517
+      }
+    },
+    "Aug": {
+      "0": {
+        "Total preciptation (mm)": 1.1470967741935483,
+        "Average atmospheric pressure (mB)": 897.4840811225806,
+        "Maximum temperature (\u00b0C)": 29.743870967741934,
+        "Average temperature (\u00b0C)": 22.1412903483871,
+        "Minimum temperature (\u00b0C)": 15.718064516129033,
+        "Relative humidity (%)": 49.63514172258064,
+        "Average wind speed (m/s)": 2.3269446451612903
+      }
+    },
+    "Sep": {
+      "0": {
+        "Total preciptation (mm)": 1.2973333333333332,
+        "Average atmospheric pressure (mB)": 896.3750640533333,
+        "Maximum temperature (\u00b0C)": 31.658666666666665,
+        "Average temperature (\u00b0C)": 23.202919400000003,
+        "Minimum temperature (\u00b0C)": 18.467333333333336,
+        "Relative humidity (%)": 49.84876883333334,
+        "Average wind speed (m/s)": 2.42267982
+      }
+    },
+    "Oct": {
+      "0": {
+        "Total preciptation (mm)": 1.9225806451612903,
+        "Average atmospheric pressure (mB)": 894.8417833870968,
+        "Maximum temperature (\u00b0C)": 31.97032258064516,
+        "Average temperature (\u00b0C)": 19.760060980645157,
+        "Minimum temperature (\u00b0C)": 19.506451612903227,
+        "Relative humidity (%)": 60.826364806451615,
+        "Average wind speed (m/s)": 2.0763090064516128
+      }
+    },
+    "Nov": {
+      "0": {
+        "Total preciptation (mm)": 3.1533333333333333,
+        "Average atmospheric pressure (mB)": 894.4980601999999,
+        "Maximum temperature (\u00b0C)": 31.883333333333336,
+        "Average temperature (\u00b0C)": 20.229318066666668,
+        "Minimum temperature (\u00b0C)": 19.162000000000003,
+        "Relative humidity (%)": 62.833812593333334,
+        "Average wind speed (m/s)": 2.0177710066666665
+      }
+    },
+    "Dec": {
+      "0": {
+        "Total preciptation (mm)": 4.121290322580646,
+        "Average atmospheric pressure (mB)": 894.6740461483871,
+        "Maximum temperature (\u00b0C)": 30.58258064516129,
+        "Average temperature (\u00b0C)": 16.95781035483871,
+        "Minimum temperature (\u00b0C)": 18.738064516129036,
+        "Relative humidity (%)": 68.00328307096774,
+        "Average wind speed (m/s)": 1.8745757096774192
+      }
+    }
+  }
+}

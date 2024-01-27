@@ -4,8 +4,6 @@ from src.data.entities.InmetData import InmetData
 
 # Creating INMET data and saving it
 inmet_data = InmetData()
-inmet_data.convert_df()
-inmet_data.save_df()
 
 # Creating agricultural production data and saving it
 agricultural_production = AgriculturalProductionData()
